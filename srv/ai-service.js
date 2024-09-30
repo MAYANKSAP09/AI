@@ -1,5 +1,5 @@
 const cds = require('@sap/cds')
-const tableName = 'ACLOUDGURUJI_SAP_LLM_DOCUMENTCHUNK'
+const tableName = 'EMBEDDINGTABLE'
 const embeddingColumn = 'EMBEDDING'
 const contentColumn = 'TEXT_CHUNK'
 const userQuery = 'What are the services provided by NexGen Technologies?'

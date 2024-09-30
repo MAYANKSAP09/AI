@@ -47,7 +47,7 @@ module.exports = function() {
       let textChunkEntries = []
       console.log(__dirname)
       
-      const loader = new TextLoader(path.resolve('db/data/nexgen.txt'))
+      const loader = new TextLoader(path.resolve('db/data/gramont.txt'))
       const document = await loader.load()
 
       const splitter = new RecursiveCharacterTextSplitter({
@@ -60,15 +60,18 @@ module.exports = function() {
       console.log(`Documents split into ${textChunks.length} chunks.`)
 
       console.log("Generating the vector embeddings for the text chunks.")
+      const destinationName = "GENERATIVE_AI_HUB";
       // For each text chunk generate the embeddings
       for (const chunk of textChunks) {
-        const embedding = await vectorPlugin.getEmbedding(chunk.pageContent)
+
+
+        const embedding = await vectorPlugin.getEmbedding(chunk.pageContent);
         const entry = {
           "text_chunk": chunk.pageContent,
           "metadata_column": loader.filePath,
           "embedding": array2VectorBuffer(embedding)
         }
-        console.log(entry)
+       
         textChunkEntries.push(entry)
       }
 
