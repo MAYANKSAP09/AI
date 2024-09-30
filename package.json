@@ -10,7 +10,8 @@
     "express": "^4",
     "@sap/xssec": "^4",
     "@cap-js/hana": "^1",
-    "@cap-js/audit-logging": ">=0"
+    "@cap-js/audit-logging": ">=0",
+    "langchain": "^0.1.36"
   },
   "devDependencies": {
     "@cap-js/cds-types": "^0.6",
@@ -25,10 +26,18 @@
       "auth": "xsuaa",
       "connectivity": true,
       "destinations": true,
-      "application-logging": true
+      "application-logging": true,
+      "db": {
+        "[production]": {
+          "kind": "hana"
+        },
+        "[development]": {
+          "kind": "sql"
+        }
+      }
     },
-    "sql": {
-      "native_hana_associations": false
+    "hana": {
+      "deploy-format": "hdbtable"
     }
   }
 }
