@@ -1,11 +1,11 @@
 const cds = require('@sap/cds')
-const tableName = 'EMBEDDINGTABLE'
+const tableName = 'GRAMONT_SAP_LLM_DOCUMENTCHUNK'
 const embeddingColumn = 'EMBEDDING'
 const contentColumn = 'TEXT_CHUNK'
 const userQuery = 'What are the services provided by NexGen Technologies?'
 const instructions = 'Return the result in json format. Display the keys, the services in a table form.'
 
-const altUserQuery = 'tell me the lowest and highest consultants per hour charge of NexGen Technologies'
+const altUserQuery = 'What are the services provided by Gramont?'
 const altInstructions = 'Return the result in json format. Display the dollar rate and consultant level.'
 
 module.exports = function() {
@@ -17,7 +17,7 @@ module.exports = function() {
                 tableName,
                 embeddingColumn,
                 contentColumn,
-                "Return the response as you are the CEO of NexGen Technologies"
+                "Return the response as you are the CEO of Gramont"
             )
             return ragResponse
         } catch (error) {

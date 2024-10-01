@@ -1,23 +1,4006 @@
-Rate Card
-
-NexGen Technologies
-NexGenCompany.ai
-
-Get your enterprise apps in days, not weeks.
-
-Empowering Digital Transformation with Specialized Solutions in ERP-SAP, SaaS, AI, and
-Cloud Technologies
-At NexGen Technologies, we're dedicated to crafting state-of-the-art digital transformation
-solutions tailored specifically for enterprise needs. Leveraging the power of cutting-edge
-technologies including SAP BTP Enterprise Technology Platform, Azure Power Platform, AI
-innovations, and AWS Compute capabilities, we ensure your business not only stays ahead in
-the digital curve but also maximizes efficiency and innovation.
-
-Pricing Structure:
-Engineer Level Rate per Hour ($):
-Engineer Level Rate per Hour ($)
-Level 1 [Associate Software Engineer] (0-1 year) $20
-Level 2 [Software Engineer] (1-3 years) $30
-Level 3 [Sr. Engineer] (3-6 years) $40
-Level 4 [Lead Engineer] (6-9 years) $50
-Distinguished Engineer (9+ years) $80
++
+Berlin - SAP Developer for PLM and EHS
++
+Berlin - SAP Consultant for PLM and EHS
++
+Budapest - SAP Food Technology Consultant / Trainee
+SAP Food
+Technology
+Consultant
+/ Trainee
+We are currently
+seeking a Food
+Technologist with an
+interest in becoming
+a SAP professionals
+Consultant
+(entry level)
+• Bachelor or
+Master of
+Science
+degree (or
+similar) in
+Business
+Administrati
+on,
+Careers at Gramont
+24/09/2024, 20:38 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 1/4
+on a Consultant level
+for our Hungarian
+subsidiary in
+Budapest.
+Required
+Languages for this
+position:
+English
+Are you interested
+in one of our job
+offers?
+We are looking
+forward to receiving
+your application
+including your
+resume.
+APPLY
+Computer
+Science,
+Nutritional
+Science,
+Chemical
+Engineering,
+Environmen
+tal
+Engineering,
+Chemistry,
+Food
+Chemistry
+or related
+discipline.
+• Strong
+analytical,
+process-
+oriented
+skills and
+ability to
+work in a
+large, multi-
+cultural and
+global
+environmen
+t.
+24/09/2024, 20:38 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 2/4
+• Excellent
+oral and
+written
+English
+communicat
+ion skills.
+• Ability to
+travel up to
+50%
+(average is
+below 50%),
+based on
+project
+standards
+(always
+home on
+weekends)
++
+Budapest - SAP Developer for PLM and EHS
++
+Budapest - SAP Consultant for PLM and EHS
++
+Bangalore - SAP Developer for PLM and EHS
++
+Bangalore - SAP Consultant for PLM and EHS
++
+North America - Senior SAP PLM Consultant - Food & Beverage Industry
+24/09/2024, 20:38 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 3/4
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIE
+S
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+24/09/2024, 20:38 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 4/4
++
+Berlin - SAP Developer for PLM and EHS
++
+Berlin - SAP Consultant for PLM and EHS
++
+Budapest - SAP Food Technology Consultant / Trainee
++
+Budapest - SAP Developer for PLM and EHS
+SAP
+Developer
+for PLM
+and EHS
+We are currently
+seeking SAP
+development
+Developer
+Trainee
+(entry level)
+• Bachelor or
+Master of
+Science
+degree (or
+similar) in
+Developer
+(for
+candidates
+with >1
+year of SAP
+ABAP, ABAP
+OO or Fiori
+Careers at Gramont
+24/09/2024, 20:39 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 1/5
+professionals on a
+Development
+Trainee, Developer
+or Senior Developer
+level for our
+Hungarian
+subsidiary in
+Budapest.
+Required
+Languages for this
+position:
+English
+Are you interested
+in one of our job
+offers?
+We are looking
+forward to receiving
+your application
+including your
+resume.
+APPLY
+Computer
+Science/Info
+rmatics,
+Business
+Informatics,
+Mathematic
+s, or other
+Natural
+Sciences
+• Strong
+analytical,
+logical skills
+and
+problem
+solving skills
+• High affinity
+to software
+developmen
+t including
+existing
+software
+developmen
+t skills
+(SAP/ABAP
+skills not
+mandatory
+developme
+nt
+experience)
+• 1+ years of
+hands-on
+SAP
+developmen
+t experience
+in SAP PLM
+(Recipe
+Managemen
+t, QM),
+EH&S,
+Supply
+Chain
+Managemen
+t / Logistics
+(e.g.: PP-PI,
+PP, MM, SD)
+• 1+ years of
+hands-on
+experience
+with
+ABAP/4, SAP
+Web
+Dynpro,
+24/09/2024, 20:39 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 2/5
+on entrant
+level)
+• Ability to
+work in a
+multi-
+cultural and
+global
+environmen
+t.
+• Excellent
+oral and
+written
+communicat
+ion skills in
+English
+• Ability to
+travel up to
+25%
+(average is
+below 25%),
+based on
+project
+standards
+(always
+HANA or
+FIORI
+technology
+Senior
+Developer
+(for
+candidates
+with >3
+years of
+SAP ABAP,
+ABAP OO or
+Fiori
+developme
+nt
+experience)
+• 3+ years of
+hands-on
+SAP
+developmen
+t experience
+in SAP PLM
+(Recipe
+Managemen
+t, QM),
+EH&S,
+24/09/2024, 20:39 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 3/5
+home on
+weekends)
+Supply
+Chain
+Managemen
+t / Logistics
+(e.g.: PP-PI,
+PP, MM, SD)
+• 3+ years of
+hands-on
+experience
+with
+ABAP/4, SAP
+Web
+Dynpro,
+HANA or
+FIORI
+technology
+• Completion
+of 3+ full
+project
+lifecycle
+implementa
+tions in a
+systems
+integration/
+consulting
+team
+24/09/2024, 20:39 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 4/5
++
+Budapest - SAP Consultant for PLM and EHS
++
+Bangalore - SAP Developer for PLM and EHS
++
+Bangalore - SAP Consultant for PLM and EHS
++
+North America - Senior SAP PLM Consultant - Food & Beverage Industry
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIE
+S
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+24/09/2024, 20:39 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 5/5
++
+Berlin - SAP Developer for PLM and EHS
++
+Berlin - SAP Consultant for PLM and EHS
++
+Budapest - SAP Food Technology Consultant / Trainee
++
+Budapest - SAP Developer for PLM and EHS
++
+Budapest - SAP Consultant for PLM and EHS
+SAP
+Consultant
+for PLM
+and EHS
+We are currently
+seeking SAP
+Consultant
+(entry level)
+• Bachelor or
+Master of
+Science
+degree (or
+Senior
+Consultant
+(for
+candidates
+with >3
+years of
+Careers at Gramont
+24/09/2024, 20:39 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 1/6
+professionals on a
+Consultant or Senior
+Consultant level for
+our Hungarian
+subsidiary in
+Budapest.
+Required
+Languages for this
+position:
+English
+Are you interested
+in one of our job
+offers?
+We are looking
+forward to receiving
+your application
+including your
+resume.
+APPLY
+similar) in
+Business
+Administrati
+on,
+Computer
+Science,
+Nutritional
+Science,
+Chemical
+Engineering,
+Environmen
+tal
+Engineering,
+Chemistry,
+Food
+Chemistry
+or related
+discipline.
+• Strong
+analytical,
+process-
+oriented
+skills and
+ability to
+work in a
+large, multi-
+cultural and
+consulting
+experience)
+• 3+ years of
+hands-on
+SAP
+configuratio
+n
+experience
+in SAP PLM
+(Recipe
+Managemen
+t, QM),
+EH&S,
+Supply
+Chain
+Managemen
+t / Logistics
+(e.g.: PP-PI,
+PP, MM, SD)
+• Experience
+with
+ABAP/4, SAP
+Web
+Dynpro,
+HANA or
+FIORI
+24/09/2024, 20:39 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 2/6
+global
+environmen
+t.
+• Excellent
+oral and
+written
+English
+communicat
+ion skills.
+• Ability to
+travel up to
+50%
+(average is
+below 50%),
+based on
+project
+standards
+(always
+home on
+weekends)
+Consultant
+(for
+candidates
+with >1
+technology
+is a plus
+• Completion
+of 3+ full
+project
+lifecycle
+implementa
+tions
+24/09/2024, 20:39 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 3/6
+year of
+consulting
+experience)
+• 1+ years of
+hands-on
+SAP
+configuratio
+n
+experience
+in SAP PLM
+(Recipe
+Managemen
+t, QM),
+EH&S,
+Supply
+Chain
+Managemen
+t / Logistics
+(e.g.: PP-PI,
+PP, MM, SD)
+• 1+ years of
+business
+experience
+in PLM,
+EH&S
+Compliance
+24/09/2024, 20:39 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 4/6
+or Supply
+Chain
+Managemen
+t in the
+process
+industry.
+• Experience
+with
+ABAP/4, SAP
+Web
+Dynpro,
+HANA or
+FIORI
+technology
+is a plus
+• Completion
+of 1-2 full
+project
+lifecycle
+implementa
+tions
++
+Bangalore - SAP Developer for PLM and EHS
++
+Bangalore - SAP Consultant for PLM and EHS
+24/09/2024, 20:39 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 5/6
++
+North America - Senior SAP PLM Consultant - Food & Beverage Industry
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIE
+S
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+24/09/2024, 20:39 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 6/6
++
+Berlin - SAP Developer for PLM and EHS
++
+Berlin - SAP Consultant for PLM and EHS
++
+Budapest - SAP Food Technology Consultant / Trainee
++
+Budapest - SAP Developer for PLM and EHS
++
+Budapest - SAP Consultant for PLM and EHS
++
+Bangalore - SAP Developer for PLM and EHS
+SAP
+Developer
+for PLM
+and EHS
+Developer
+Trainee
+(entry level)
+Developer
+(for
+candidates
+with >1
+year of SAP
+Careers at Gramont
+24/09/2024, 20:39 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 1/5
+We are currently
+seeking SAP
+development
+professionals on a
+Development
+Trainee, Developer
+or Senior Developer
+level for our Indian
+subsidiary in
+Bangalore.
+Required
+Languages for this
+position:
+English
+Are you interested
+in one of our job
+offers?
+We are looking
+forward to receiving
+your application
+including your
+resume.
+APPLY
+• Bachelor or
+Master of
+Science
+degree (or
+similar) in
+Computer
+Science/Info
+rmatics,
+Business
+Informatics,
+Mathematic
+s, or other
+Natural
+Sciences
+• Strong
+analytical,
+logical skills
+and
+problem
+solving skills
+• High affinity
+to software
+developmen
+t including
+existing
+software
+ABAP, ABAP
+OO or Fiori
+developme
+nt
+experience)
+• 1+ years of
+hands-on
+SAP
+developmen
+t experience
+in SAP PLM
+(Recipe
+Managemen
+t, QM),
+EH&S,
+Supply
+Chain
+Managemen
+t / Logistics
+(e.g.: PP-PI,
+PP, MM, SD)
+• 1+ years of
+hands-on
+experience
+with
+24/09/2024, 20:39 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 2/5
+developmen
+t skills
+(SAP/ABAP
+skills not
+mandatory
+on entrant
+level)
+• Ability to
+work in a
+multi-
+cultural and
+global
+environmen
+t.
+• Excellent
+oral and
+written
+communicat
+ion skills in
+English
+• Ability to
+travel up to
+25%
+(average is
+ABAP/4, SAP
+Web
+Dynpro,
+HANA or
+FIORI
+technology
+Senior
+Developer
+(for
+candidates
+with >3
+years of
+SAP ABAP,
+ABAP OO or
+Fiori
+developme
+nt
+experience)
+• 3+ years of
+hands-on
+SAP
+developmen
+t experience
+in SAP PLM
+(Recipe
+24/09/2024, 20:39 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 3/5
+below 25%),
+based on
+project
+standards
+(always
+home on
+weekends)
+Managemen
+t, QM),
+EH&S,
+Supply
+Chain
+Managemen
+t / Logistics
+(e.g.: PP-PI,
+PP, MM, SD)
+• 3+ years of
+hands-on
+experience
+with
+ABAP/4, SAP
+Web
+Dynpro,
+HANA or
+FIORI
+technology
+• Completion
+of 3+ full
+project
+lifecycle
+implementa
+tions in a
+systems
+24/09/2024, 20:39 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 4/5
+integration/
+consulting
+team
++
+Bangalore - SAP Consultant for PLM and EHS
++
+North America - Senior SAP PLM Consultant - Food & Beverage Industry
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIE
+S
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+24/09/2024, 20:39 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 5/5
++
+Berlin - SAP Developer for PLM and EHS
++
+Berlin - SAP Consultant for PLM and EHS
++
+Budapest - SAP Food Technology Consultant / Trainee
++
+Budapest - SAP Developer for PLM and EHS
++
+Budapest - SAP Consultant for PLM and EHS
++
+Bangalore - SAP Developer for PLM and EHS
++
+Bangalore - SAP Consultant for PLM and EHS
+SAP
+Consultant
+Consultant
+(entry level)
+Senior
+Consultant
+(for
+Careers at Gramont
+24/09/2024, 20:39 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 1/6
+for PLM
+and EHS
+We are currently
+seeking SAP
+professionals on a
+Consultant or Senior
+Consultant level for
+our Indian
+subsidiary in
+Bangalore.
+Required
+Languages for this
+position:
+English
+Are you interested
+in one of our job
+offers?
+We are looking
+forward to receiving
+your application
+including your
+resume.
+• Bachelor or
+Master of
+Science
+degree (or
+similar) in
+Business
+Administrati
+on,
+Computer
+Science,
+Nutritional
+Science,
+Chemical
+Engineering,
+Environmen
+tal
+Engineering,
+Chemistry,
+Food
+Chemistry
+or related
+discipline.
+• Strong
+analytical,
+process-
+oriented
+skills and
+candidates
+with >3
+years of
+consulting
+experience)
+• 3+ years of
+hands-on
+SAP
+configuratio
+n
+experience
+in SAP PLM
+(Recipe
+Managemen
+t, QM),
+EH&S,
+Supply
+Chain
+Managemen
+t / Logistics
+(e.g.: PP-PI,
+PP, MM, SD)
+• Experience
+with
+ABAP/4, SAP
+24/09/2024, 20:39 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 2/6
+APPLY
+ability to
+work in a
+large, multi-
+cultural and
+global
+environmen
+t.
+• Excellent
+oral and
+written
+English
+communicat
+ion skills.
+• Ability to
+travel up to
+50%
+(average is
+below 50%),
+based on
+project
+standards
+(always
+home on
+weekends)
+Web
+Dynpro,
+HANA or
+FIORI
+technology
+is a plus
+• Completion
+of 3+ full
+project
+lifecycle
+implementa
+tions
+24/09/2024, 20:39 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 3/6
+Consultant
+(for
+candidates
+with >1
+year of
+consulting
+experience)
+• 1+ years of
+hands-on
+SAP
+configuratio
+n
+experience
+in SAP PLM
+(Recipe
+Managemen
+t, QM),
+EH&S,
+Supply
+Chain
+Managemen
+t / Logistics
+(e.g.: PP-PI,
+PP, MM, SD)
+24/09/2024, 20:39 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 4/6
+• 1+ years of
+business
+experience
+in PLM,
+EH&S
+Compliance
+or Supply
+Chain
+Managemen
+t in the
+process
+industry.
+• Experience
+with
+ABAP/4, SAP
+Web
+Dynpro,
+HANA or
+FIORI
+technology
+is a plus
+• Completion
+of 1-2 full
+project
+lifecycle
+24/09/2024, 20:39 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 5/6
+implementa
+tions
++
+North America - Senior SAP PLM Consultant - Food & Beverage Industry
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIE
+S
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+24/09/2024, 20:39 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 6/6
++
+Berlin - SAP Developer for PLM and EHS
++
+Berlin - SAP Consultant for PLM and EHS
++
+Budapest - SAP Food Technology Consultant / Trainee
++
+Budapest - SAP Developer for PLM and EHS
++
+Budapest - SAP Consultant for PLM and EHS
++
+Bangalore - SAP Developer for PLM and EHS
++
+Bangalore - SAP Consultant for PLM and EHS
++
+North America - Senior SAP PLM Consultant - Food & Beverage Industry
+Senior SAP
+PLM
+As part of
+the
+Careers at Gramont
+24/09/2024, 20:40 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 1/4
+Consultant
+- Food &
+Beverage
+We are currently
+seeking full time
+Senior SAP PLM
+Consultants with a
+Nutritional Scientist
+background for
+GRAMONT LLC, our
+new subsidiary in
+North America.
+Requirements for
+this position:
+• Applicants
+must be
+located
+within
+North
+America,
+have
+excellent
+oral and
+written
+English
+• 3+ years of
+hands-on
+SAP
+configuratio
+n
+experience
+in SAP PLM
+(Recipe
+Managemen
+t, QM),
+EH&S,
+Supply
+Chain
+Managemen
+t / Logistics
+(e.g.: PP-PI,
+PP, MM, SD)
+• Experience
+with
+ABAP/4, SAP
+Web
+Dynpro,
+HANA or
+FIORI
+technology
+is a plus
+Gramont
+team you…
+• work
+remote with
+50% travel
+• benefit
+from
+professional
+developmen
+t and
+growth
+opportuniti
+es on your
+individual
+career path
+• have many
+opportuniti
+es to gain
+internationa
+l work
+experience
+•
+continuousl
+24/09/2024, 20:40 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 2/4
+communicat
+ion skills
+and the
+ability to
+travel up to
+50%
+(average is
+below 50%),
+based on
+project
+standards
+(always
+home on
+weekends) –
+(not
+required
+during
+Covid
+outbreak
+times)
+Are you interested
+in one of our job
+offers?
+We are looking
+forward to receiving
+your application
+including your
+resume.
+• Completion
+of 3+ full
+project
+lifecycle
+implementa
+tions
+y build-up
+and
+exchange
+know-how
+within the
+team as well
+as benefit
+from
+comprehen
+sive training
+offers
+• engage with
+innovative
+customers
+and
+partners
+• are part of
+an
+internationa
+l and
+multicultura
+l team
+• directly
+contribute
+24/09/2024, 20:40 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 3/4
+APPLY
+to the
+success of
+the
+company
+• receive an
+attractive
+and
+competitive
+compensati
+on model
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIE
+S
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+24/09/2024, 20:40 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 4/4
+News & Events
+Welcome to the
+world-leading
+SAP consulting
+company for
+PLM, MDG & EHS
+Innovation, Compliance,
+Business Excellence
+24/09/2024, 20:40 GRAMONT
+https://www.gramont.consulting/#section-industries 1/9
+BLOG: Take Control of Safety Data Sheet
+Management with Gramont's Product
+Compliance Solutions
+Product Compliance Solutions and Proper
+SDS Management Protect Data and
+Legacy
+READ MORE →
+Jul 13, 2024
+BLOG: Introducing SAP® PLM in the
+Cloud - E-Bite Review of Chapter 3.6 on
+Integration Scenarios
+Gramont’s Richard Markovics Recaps
+Integration Scenarios Chapter of New SAP
+PLM E-Bite
+READ MORE →
+Apr 12, 2024
+ALL NEWS
+Expertise
+The GRAMONT team consists of
+experienced consultants with
+PLM for Process Industries
+PLM for Discrete Industries
+24/09/2024, 20:40 GRAMONT
+https://www.gramont.consulting/#section-industries 2/9
+technical and functional
+Expertise.
+We are thought leaders in the
+area of SAP with unique subject
+matter expertise in PLM (process
+and discrete) and related areas,
+such as Regulatory Compliance
+(classic EHS, Food, Consumer
+Goods, Appliances), SAP Project
+and Portfolio Management
+(PPM/PS), Business
+Intelligence/Business Warehouse
+SAP (BI/BW) and other modules.
+With technical excellence and a
+proven track record in classic
+and emerging SAP technologies
+like SAP HANA, FIORI / UI5, IoT,
+the GRAMONT work approach is
+focused on the needs of our
+clients; enabling them to reach
+their goals in an efficient
+manner.
+Important for us is to utilize our
+expertise in a work style that is
+collaborative, motivating and
+performance driven.
+Project & Portfolio Mtg (EPPM)
+Master Data Governance (MDG)
+SAP EHS & EHSM
+SAP PLM Label Management
+SAP EHS Product Safety
+Product Compliance
+24/09/2024, 20:40 GRAMONT
+https://www.gramont.consulting/#section-industries 3/9
+Services
+GRAMONT delivers end-to-end
+services from Business &
+Application, Consulting,
+Architecture & Development
+Services, UI/UX Design &
+Implementation, Support &
+Maintenance to actual Service
+Outsourcing. With its proven
+track record of industry
+experience, GRAMONT provides
+best practices on business
+process and application
+solutions.
+SAP Application
+Consulting
+SAP Application
+Development
+SAP Support &
+Maintenance
+SAP Business &
+Process
+Consulting
+24/09/2024, 20:40 GRAMONT
+https://www.gramont.consulting/#section-industries 4/9
+Industry Sectors
+Products
+GRAMONT optimizes business
+and production processes with
+the implementation of SAP
+Solutions and Products.
+Our Accelerators are used in
+projects to speed up
+implementation and cover areas
+in Master Data, PLM that are not
+optimally covered by standard
+SAP.
+Accelerators bring target
+functionality for specific
+industries and use cases on top
+of the already comprehensive
+functionality from SAP.
+LabelNow
+COMPAS 360
+GRAMONT
+Polaris
+Vendor
+Connect
+GRAMONT
+Translation
+Hub
+OptimizeNow
+GRAMONT
+Accelerators
+Nutri-Score,
+Eco-Score,
+Traffic Light
+Easy Spec
+Management
+Spec Version
+Management
+24/09/2024, 20:40 GRAMONT
+https://www.gramont.consulting/#section-industries 5/9
+We have been recognized for our role as an
+innovative company with successful
+implementations in a range of industry sectors,
+including FMCG, Food, Pharma, Chemistry,
+Lifescience and discrete manufacturing.
+Pharmaceutical
+Food &
+Beverage
+Chemicals
+Consumer
+Goods
+Hospitality
+Biotechnology
+& Life Science
+Retail
+Discrete
+Manufacturing
+Clients
+24/09/2024, 20:40 GRAMONT
+https://www.gramont.consulting/#section-industries 6/9
+Career
+Come and work with
+us on innovative
+projects at one of our
+international
+locations.
+As a member of a
+highly motivated
+team you will work in
+an environment that
+fosters expertise and
+continuous
+professional
+development.
+OPEN POSITIONS AT
+GRAMONT
+24/09/2024, 20:40 GRAMONT
+https://www.gramont.consulting/#section-industries 7/9
+Your
+trusted SAP
+Partner
+Welcome to the leading
+SAP consulting company
+for PLM, MDG and EHS. We
+are an international team
+with unique subject matter
+expertise, technical know-
+how and Next Generation
+EHS and PLM Solutions.
+ABOUT US
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIE
+S
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+24/09/2024, 20:40 GRAMONT
+https://www.gramont.consulting/#section-industries 8/9
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+24/09/2024, 20:40 GRAMONT
+https://www.gramont.consulting/#section-industries 9/9
+News & Events
+SAP Solutions for
+Life Science
+Industry
+Product Compliance with
+Product Data Submission
+Management (PDSM)
+24/09/2024, 20:40 GRAMONT
+https://www.gramont.consulting/#section-industries 1/9
+BLOG: Take Control of Safety Data Sheet
+Management with Gramont's Product
+Compliance Solutions
+Product Compliance Solutions and Proper
+SDS Management Protect Data and
+Legacy
+READ MORE →
+Jul 13, 2024
+BLOG: Introducing SAP® PLM in the
+Cloud - E-Bite Review of Chapter 3.6 on
+Integration Scenarios
+Gramont’s Richard Markovics Recaps
+Integration Scenarios Chapter of New SAP
+PLM E-Bite
+READ MORE →
+Apr 12, 2024
+ALL NEWS
+Expertise
+The GRAMONT team consists of
+experienced consultants with
+PLM for Process Industries
+PLM for Discrete Industries
+24/09/2024, 20:40 GRAMONT
+https://www.gramont.consulting/#section-industries 2/9
+technical and functional
+Expertise.
+We are thought leaders in the
+area of SAP with unique subject
+matter expertise in PLM (process
+and discrete) and related areas,
+such as Regulatory Compliance
+(classic EHS, Food, Consumer
+Goods, Appliances), SAP Project
+and Portfolio Management
+(PPM/PS), Business
+Intelligence/Business Warehouse
+SAP (BI/BW) and other modules.
+With technical excellence and a
+proven track record in classic
+and emerging SAP technologies
+like SAP HANA, FIORI / UI5, IoT,
+the GRAMONT work approach is
+focused on the needs of our
+clients; enabling them to reach
+their goals in an efficient
+manner.
+Important for us is to utilize our
+expertise in a work style that is
+collaborative, motivating and
+performance driven.
+Project & Portfolio Mtg (EPPM)
+Master Data Governance (MDG)
+SAP EHS & EHSM
+SAP PLM Label Management
+SAP EHS Product Safety
+Product Compliance
+24/09/2024, 20:40 GRAMONT
+https://www.gramont.consulting/#section-industries 3/9
+Services
+GRAMONT delivers end-to-end
+services from Business &
+Application, Consulting,
+Architecture & Development
+Services, UI/UX Design &
+Implementation, Support &
+Maintenance to actual Service
+Outsourcing. With its proven
+track record of industry
+experience, GRAMONT provides
+best practices on business
+process and application
+solutions.
+SAP Application
+Consulting
+SAP Application
+Development
+SAP Support &
+Maintenance
+SAP Business &
+Process
+Consulting
+24/09/2024, 20:40 GRAMONT
+https://www.gramont.consulting/#section-industries 4/9
+Industry Sectors
+Products
+GRAMONT optimizes business
+and production processes with
+the implementation of SAP
+Solutions and Products.
+Our Accelerators are used in
+projects to speed up
+implementation and cover areas
+in Master Data, PLM that are not
+optimally covered by standard
+SAP.
+Accelerators bring target
+functionality for specific
+industries and use cases on top
+of the already comprehensive
+functionality from SAP.
+LabelNow
+COMPAS 360
+GRAMONT
+Polaris
+Vendor
+Connect
+GRAMONT
+Translation
+Hub
+OptimizeNow
+GRAMONT
+Accelerators
+Nutri-Score,
+Eco-Score,
+Traffic Light
+Easy Spec
+Management
+Spec Version
+Management
+24/09/2024, 20:40 GRAMONT
+https://www.gramont.consulting/#section-industries 5/9
+We have been recognized for our role as an
+innovative company with successful
+implementations in a range of industry sectors,
+including FMCG, Food, Pharma, Chemistry,
+Lifescience and discrete manufacturing.
+Pharmaceutical
+Food &
+Beverage
+Chemicals
+Consumer
+Goods
+Hospitality
+Biotechnology
+& Life Science
+Retail
+Discrete
+Manufacturing
+Clients
+24/09/2024, 20:40 GRAMONT
+https://www.gramont.consulting/#section-industries 6/9
+Career
+Come and work with
+us on innovative
+projects at one of our
+international
+locations.
+As a member of a
+highly motivated
+team you will work in
+an environment that
+fosters expertise and
+continuous
+professional
+development.
+OPEN POSITIONS AT
+GRAMONT
+24/09/2024, 20:40 GRAMONT
+https://www.gramont.consulting/#section-industries 7/9
+Your
+trusted SAP
+Partner
+Welcome to the leading
+SAP consulting company
+for PLM, MDG and EHS. We
+are an international team
+with unique subject matter
+expertise, technical know-
+how and Next Generation
+EHS and PLM Solutions.
+ABOUT US
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIE
+S
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+24/09/2024, 20:40 GRAMONT
+https://www.gramont.consulting/#section-industries 8/9
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+24/09/2024, 20:40 GRAMONT
+https://www.gramont.consulting/#section-industries 9/9
+News & Events
+Welcome to the
+world-leading
+SAP consulting
+company for
+PLM, MDG & EHS
+Innovation, Compliance,
+Business Excellence
+24/09/2024, 20:41 GRAMONT
+https://www.gramont.consulting 1/9
+BLOG: Take Control of Safety Data Sheet
+Management with Gramont's Product
+Compliance Solutions
+Product Compliance Solutions and Proper
+SDS Management Protect Data and
+Legacy
+READ MORE →
+Jul 13, 2024
+BLOG: Introducing SAP® PLM in the
+Cloud - E-Bite Review of Chapter 3.6 on
+Integration Scenarios
+Gramont’s Richard Markovics Recaps
+Integration Scenarios Chapter of New SAP
+PLM E-Bite
+READ MORE →
+Apr 12, 2024
+ALL NEWS
+Expertise
+The GRAMONT team consists of
+experienced consultants with
+PLM for Process Industries
+PLM for Discrete Industries
+24/09/2024, 20:41 GRAMONT
+https://www.gramont.consulting 2/9
+technical and functional
+Expertise.
+We are thought leaders in the
+area of SAP with unique subject
+matter expertise in PLM (process
+and discrete) and related areas,
+such as Regulatory Compliance
+(classic EHS, Food, Consumer
+Goods, Appliances), SAP Project
+and Portfolio Management
+(PPM/PS), Business
+Intelligence/Business Warehouse
+SAP (BI/BW) and other modules.
+With technical excellence and a
+proven track record in classic
+and emerging SAP technologies
+like SAP HANA, FIORI / UI5, IoT,
+the GRAMONT work approach is
+focused on the needs of our
+clients; enabling them to reach
+their goals in an efficient
+manner.
+Important for us is to utilize our
+expertise in a work style that is
+collaborative, motivating and
+performance driven.
+Project & Portfolio Mtg (EPPM)
+Master Data Governance (MDG)
+SAP EHS & EHSM
+SAP PLM Label Management
+SAP EHS Product Safety
+Product Compliance
+24/09/2024, 20:41 GRAMONT
+https://www.gramont.consulting 3/9
+Services
+GRAMONT delivers end-to-end
+services from Business &
+Application, Consulting,
+Architecture & Development
+Services, UI/UX Design &
+Implementation, Support &
+Maintenance to actual Service
+Outsourcing. With its proven
+track record of industry
+experience, GRAMONT provides
+best practices on business
+process and application
+solutions.
+SAP Application
+Consulting
+SAP Application
+Development
+SAP Support &
+Maintenance
+SAP Business &
+Process
+Consulting
+24/09/2024, 20:41 GRAMONT
+https://www.gramont.consulting 4/9
+Industry Sectors
+Products
+GRAMONT optimizes business
+and production processes with
+the implementation of SAP
+Solutions and Products.
+Our Accelerators are used in
+projects to speed up
+implementation and cover areas
+in Master Data, PLM that are not
+optimally covered by standard
+SAP.
+Accelerators bring target
+functionality for specific
+industries and use cases on top
+of the already comprehensive
+functionality from SAP.
+LabelNow
+COMPAS 360
+GRAMONT
+Polaris
+Vendor
+Connect
+GRAMONT
+Translation
+Hub
+OptimizeNow
+GRAMONT
+Accelerators
+Nutri-Score,
+Eco-Score,
+Traffic Light
+Easy Spec
+Management
+Spec Version
+Management
+24/09/2024, 20:41 GRAMONT
+https://www.gramont.consulting 5/9
+We have been recognized for our role as an
+innovative company with successful
+implementations in a range of industry sectors,
+including FMCG, Food, Pharma, Chemistry,
+Lifescience and discrete manufacturing.
+Pharmaceutical
+Food &
+Beverage
+Chemicals
+Consumer
+Goods
+Hospitality
+Biotechnology
+& Life Science
+Retail
+Discrete
+Manufacturing
+Clients
+24/09/2024, 20:41 GRAMONT
+https://www.gramont.consulting 6/9
+Career
+Come and work with
+us on innovative
+projects at one of our
+international
+locations.
+As a member of a
+highly motivated
+team you will work in
+an environment that
+fosters expertise and
+continuous
+professional
+development.
+OPEN POSITIONS AT
+GRAMONT
+24/09/2024, 20:41 GRAMONT
+https://www.gramont.consulting 7/9
+Your
+trusted SAP
+Partner
+Welcome to the leading
+SAP consulting company
+for PLM, MDG and EHS. We
+are an international team
+with unique subject matter
+expertise, technical know-
+how and Next Generation
+EHS and PLM Solutions.
+ABOUT US
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIE
+S
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+24/09/2024, 20:41 GRAMONT
+https://www.gramont.consulting 8/9
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+24/09/2024, 20:41 GRAMONT
+https://www.gramont.consulting 9/9
+SAP PLM Recipe Development
+SAP PLM for Process Industries
+The all-encompassing solution for the challenges Process
+Industries face in a global market
+The need for competitive and fast product innovations to fulfill and
+create market demands, as well as an increasing number of world-
+wide regulatory requirements call for an all-encompassing solution.
+SAP Product Lifecycle Management (SAP PLM) for Recipe
+Development
+SAP PLM Recipe Development allows detailed and easy management of
+all information and specifications with easy to use recipe and
+specification management functionalities, simplifying the data
+maintenance. It allows formula changes, calculates the costs for recipe
+compositions based on ingredient proportions and the management of
+ingredient sourcing (ERP).
+Compliance Connect will let you check your recipe developments for
+internal or external regulations through quantitative checks and
+qualitative ratings, ensuring internal and global Regulatory Compliance.
+WWI reporting allows the generating, printing and storing of data sheets
+(from recipes) or material safety data sheets (from specifications).
+This smart system optimizes your company’s product developing
+processes by letting you navigate the manufacturing process with greater
+visibility, control and easy to use interfaces, enabling your company to be
+highly competitive through agile process management with SAP PLM.
+24/09/2024, 20:42 Recipe Development SAP PLM (RD) for Process Industries — GRAMONT
+https://www.gramont.consulting/expertise/sap-plm-process-industries 1/2
+See also our Products Section for more information on Gramont`
+s
+Solutions and Add-Ons for SAP PLM
+Find out more about the best SAP solution for your company
+CONTACT US
+SAP PLM Recipe
+Development
+SAP EHS and EHSM
+SAP PLM for Discrete
+Industries
+SAP Master Data
+Governance
+Regulatory
+Compliance
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIES
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+ 
+24/09/2024, 20:42 Recipe Development SAP PLM (RD) for Process Industries — GRAMONT
+https://www.gramont.consulting/expertise/sap-plm-process-industries 2/2
+SAP PLM for Discrete Industries
+Benefit from accelerated Product
+Development with SAP PLM for Discrete
+Industries
+Accelerate product innovation and renovation with GRAMONT consulting
+and development services on integrated Discrete Manufacturing
+Ecosystem, powered by SAP S/4HANA along with Siemens team center.
+These powered by GRAMONT accelerators such as MAPRE (Machine &
+Part release with docu-sign integration), COMPAS (Compliance
+assessment for Discrete Manufacturing) provide an integrated and
+enhanced solution for product & asset lifecycle management.
+GRAMONT experts help you in integration scenarios, enabling
+manufacturing companies to plan, execute and monitor design,
+development and construction projects which are truly linked with
+engineering information and digital twin objects.
+Organizations need a level of connection to monitor trends and innovate
+in the direction customers want. Increasingly, organizations want to
+design smarter, Industry 4.0-enabled products and assets that have built-
+in sensors to capture real-time data, once they are in use in a live
+environment. It’s also important to think in terms of compliant product
+lifecycle management – which requires product development to be
+integrated into the supply chain from the beginning.
+24/09/2024, 20:42 SAP PLM IT Solutions for Discrete Industries & Manufacturing — GRAMONT
+https://www.gramont.consulting/expertise/sap-plm-for-discrete-industries 1/5
+GRAMONT is uniquely positioned to provide that capability supported by
+improved cross-functional visibility and decision making which yields
+shortened time to market and reduced product development costs.
+Through years of experience with implementations GRAMONT has
+developed the unique ability to connect with customers and products in
+real-time. Using a closed loop environment which enables an
+organization to optimize product offerings over time, based upon
+specific usage, cost, and reliability.
+With Gramont services and accelerators you can differentiate by using
+design data beyond engineering in a collaborative ecosystem to
+simulate and visualize the business impact of product development on
+costs, supply chain, procurement, manufacturing, and service to
+enable fast decision making while reducing time to market, improving
+profits and design with quality & complaint products.
+Product Development & Formulation
+Accelerate product development by integration with existing Product
+Data Management solutions to leverage design data in ERP
+Manage the lifecycle of product documentation including versioning
+and access control
+Structure document hierarchies and navigate relationships between
+documents and master data
+Aligned with SAP’s objects, processes, and strategy to provide accurate
+and automated data synchronization instead of manual data duplication
+Provide a unified data integration methodology for all product data
+sources and a path for enterprise product change processes
+Product Development – Change
+24/09/2024, 20:42 SAP PLM IT Solutions for Discrete Industries & Manufacturing — GRAMONT
+https://www.gramont.consulting/expertise/sap-plm-for-discrete-industries 2/5
+Management
+Effectively coordinate and manage changes by connecting stakeholders,
+processes & products
+Make informed decisions by identifying efforts, costs and dependencies
+when evaluating changes
+See the impact of a change across the entire enterprise
+User friendly experience to release machines, parts, and any
+components with integrated docu-sign application.
+Product Configuration
+Design for variability and build engineering configurations
+Reduce time to market for new products through highly efficient
+simulation of new product variants and options
+Ensure data accuracy and consistency for complex product
+configuration needs across engineering, sales, manufacturing, service,
+and support.
+Product Costing & Compliance
+Perform 360° compliance assessment for components, parts, machine,
+packaging, and mass product portfolios powered by simulation and
+automatic notification up on regulatory changes
+Check compliance and provide full compliance visibility in design to
+streamline design processes and accelerate product introduction
+Collect, manage, and publish compliance documents, test reports
+and certificates to ensure compliance and fulfill stakeholder
+requirements
+24/09/2024, 20:42 SAP PLM IT Solutions for Discrete Industries & Manufacturing — GRAMONT
+https://www.gramont.consulting/expertise/sap-plm-for-discrete-industries 3/5
+Provide safe and compliant transportation of hazardous materials
+to avoid delivery delays & protect brand value
+Embed compliance in the whole product lifecycle from early design to
+sales and distribution to secure the right to market your products and
+reduce risk
+Integrate with your internal guidelines and external regulatory content (
+any or multiple regulatory content provider)
+Collaboration
+Effectively manage the complete spectrum of collaboration to
+support product development across the extended enterprise
+Increase collaboration between engineering and manufacturing
+departments
+Collaborate effortlessly on structured data incl native xCAD models,
+Bills of Material, product masters and specification along the product
+lifecycle
+Reduce risk and ensure faster time to market by enabling engineering
+to work with right suppliers from early design sourcing to procurement
+for scale processes
+Secure and well-orchestrated collaboration rich with workflows,
+authorization, version controls & visualization support
+Accelerate your industrial transformation and profit from
+GRAMONT’s many years of experience.
+Find out more about the best SAP solution for your company
+CONTACT US
+24/09/2024, 20:42 SAP PLM IT Solutions for Discrete Industries & Manufacturing — GRAMONT
+https://www.gramont.consulting/expertise/sap-plm-for-discrete-industries 4/5
+SAP PLM Recipe
+Development SAP EHS and EHSM
+SAP PLM for Discrete
+Industries
+SAP Master Data
+Governance
+Regulatory
+Compliance
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIES
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+ 
+24/09/2024, 20:42 SAP PLM IT Solutions for Discrete Industries & Manufacturing — GRAMONT
+https://www.gramont.consulting/expertise/sap-plm-for-discrete-industries 5/5
+SAP Project and Portfolio Management
+Product Lifecycle & Portfolio- and Project
+Management
+Get new products and services to market faster with centralized
+processes and information
+GRAMONT’s functional and technical experts help you accelerate
+implementations of ePPM solutions, enabling you to develop new
+profitable products and services while optimizing resources and
+achieving a faster time to market. GRAMONT’s flexible nearshore
+and offshore teams support your enterprise portfolio and project
+management (EPPM) processes and integrate financial and logistic
+information seamlessly with simplified user interfaces and best
+practices.
+Let it be
+• Cloud, on-premises, and hybrid deployment
+• Identification of project anomalies and risks
+• Project performance reporting based on live data
+• Lower total cost of ownership through preconfigured integration
+GRAMONT supports you significantly when it comes to selecting the most
+promising solutions among an abundance of possibilities.
+How can we best shape your project and
+portfolio implementation to meet your
+24/09/2024, 20:42 SAP Enterprise Portfolio and Project Management (EPPM) — GRAMONT
+https://www.gramont.consulting/expertise/project-portfolio-management 1/2
+company's goals?
+For nearly 10 years, GRAMONT has been helping organizations answer
+that question, first with PPM and now with a GRAMONT light weight,
+flexible dashboard Viewport where you can implement immediately to
+access powerful visualizations—so you can finally see what your R&D
+project portfolio data is trying to tell you.
+Find out more about the best SAP solution for your company
+CONTACT US
+SAP PLM Recipe
+Development SAP EHS and EHSM
+SAP PLM for Discrete
+Industries
+SAP Master Data
+Governance
+Regulatory
+Compliance
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIES
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+ 
+24/09/2024, 20:42 SAP Enterprise Portfolio and Project Management (EPPM) — GRAMONT
+https://www.gramont.consulting/expertise/project-portfolio-management 2/2
+SAP Master Data Governance
+We can’t afford to go without Data
+Governance
+Turn data into a competitive advantage that delivers value for
+your industry and enterprise.
+Success in the digital economy requires a transparent approach to
+Master Data to know exactly what your customers want, when they
+want it. GRAMONT expertise and accelerators empowers you to
+deliver it, creating a single, centralized, up-to-date version of the
+truth to drive better decisions, experiences, and outcomes.
+GRAMONT provides unique innovations in S/4HANA and ERP as our
+Accelerators come with no upgrade and are compatible with your
+releases. With Gramont Data Scientist Center Of Excellence you can
+easily adopt existing rule mining to discover patterns in existing Master
+Data, use mining runs to analyse existing Master Data, which can be
+further used in implementations of Data Quality Rules.
+Digital transformation
+Drive innovation, agility and growth by unlocking the value of your data
+across every area of business
+Time to Value
+Remove operational inefficiencies and accelerate outcomes with
+complete records
+24/09/2024, 20:43 SAP Master Data Governance (MDG) — GRAMONT
+https://www.gramont.consulting/expertise/sap-master-data-governance 1/4
+Accurate Insight - Fuel every department, system and workflow with
+integrated data that increases understanding
+Customer experiences
+Propel your personalization and deliver unsurpassed experiences using
+rich customer profiles
+Regulatory Compliance
+Harness complete data to boost governance and establish regulatory
+controls
+Data Quality
+Leverage a central repository for collecting, cleansing and enriching data
+to develop a golden record
+Master Data Governance (MDG)
+reliably supports you in keeping your Master Data consistent even in
+complex system landscapes that are distributed across various locations.
+MDG enables you to adjust your master data quickly to reflect legal
+changes, track changes, and respond flexibly to new requirements and
+business transactions such as takeovers of other companies.
+MDG, Central Governance
+provides central ownership of Master Data in line with a company’s
+business rules and processes. MDG delivers domain-specific, out-of-the-
+box applications as well as a framework for custom-defined Master Data.
+MDG offers change request-based processing of Master Data with
+integrated workflow, staging, approval, activation and distribution. MDG
+can be deployed as a separate hub system or co-deployed with SAP
+S/4HANA. In both cases MDG can use SAP and company-specific business
+logic to create Master Data ready to be used in a company’s business
+processes.
+MDG, Consolidation
+delivers capabilities to load Master Data from different sources, to
+standardize the Master Data and to detect duplicates. MDG,
+consolidation calculates a best record from the duplicates in that group
+24/09/2024, 20:43 SAP Master Data Governance (MDG) — GRAMONT
+https://www.gramont.consulting/expertise/sap-master-data-governance 2/4
+based on survivorship rules for the Master Data attributes. You can then
+use these best records in dedicated analytical or business scenarios.
+Within MDG you can combine consolidation and central governance to
+support various Master Data Management scenarios, like initial load of
+Master Data as a starting point for central Governance, consolidation of
+Master Data after mergers and acquisitions, or combinations where you
+keep de-central ownership of Master Data in some parts of the company,
+while centralizing Master Data ownership in other parts.
+MDG, Mass Processing
+enables you to update multiple Master Data records at a time. To update
+records, you select the fields and records you want to change. The
+system then provides statistics on the changed fields and validates the
+Data for business transaction use before activating the changes.
+MDG, Data Quality Management
+applies your rules to Master Data to detect errors and to trigger their
+correction. Rule mining enables you to use machine learning for Data
+Analysis and for the creation of Data Quality rules from mined rules.
+Process Analytics for Master Data
+provides overview pages and analytical list pages, showing relevant
+process information for applications in Central Governance,
+Consolidation, and Mass Processing.
+Machine Learning for Master Data
+leverages state-of-the-art machine learning techniques to gather new
+insights and elevate your Data Quality. Besides advanced visualizations,
+the automated grouping of data, automated rule mining and quality
+control, we offer near-duplicate and outlier detection.
+Creating better business for a better world with Master Data is the
+foundation for any digital transformation. Better business begins with
+24/09/2024, 20:43 SAP Master Data Governance (MDG) — GRAMONT
+https://www.gramont.consulting/expertise/sap-master-data-governance 3/4
+data-driven decisions - making use of accurate, trusted and updated
+information. From FMCG to retail, consumer packaged goods (CPG) to
+manufacturing, automotive, distribution, hospitality and more, Master
+Data Management (MDM) offers a wealth of advantages to diverse
+industries and organizations.
+Find out more about the best SAP solution for your company
+CONTACT US
+SAP PLM Recipe
+Development SAP EHS and EHSM
+SAP PLM for Discrete
+Industries
+SAP Master Data
+Governance
+Regulatory
+Compliance
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIES
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+ 
+24/09/2024, 20:43 SAP Master Data Governance (MDG) — GRAMONT
+https://www.gramont.consulting/expertise/sap-master-data-governance 4/4
+SAP EHS and EHSM
+SAP Environment, Health and Safety
+(EHS / EHSM)
+Gramont provides long standing experiences concerning all
+functional topics in the field of SAP Environment, Health and
+Safety (EHS).
+As the leading ERP-integrated platform for Corporate Safety, SAP
+EHS offers best practice functional reference processes for
+Corporate Safety, MoC and Environment Management. Convenient
+and intuitive web-based user front-end applications including
+mobile applications on SAP’s latest Fiori technology and unique
+master data integration capabilities leveraging synergies with a
+multitude of master data objects from other SAP modules such as
+Human Resources, Human Capital Management (HCM / Success
+Factors), Organization Management, Plant Maintenance (PM), Real
+Estate Management (RE-FX), Materials Management (MM),
+Warehouse Management (eWM, WM) and Business Warehouse (BW).
+Clients profit from Gramont’s vast SAP EHS expertise, which covers
+the following areas of systems integration and IT strategy
+consultancy
+Incident Management
+Risk Management
+24/09/2024, 20:43 SAP EHS - Environment, Health and Safety Management Systems — GRAMONT
+https://www.gramont.consulting/expertise/ehs-ehsm 1/2
+Hazardous Substance Management (for corporate safety)
+Environment Management
+Management of Change
+Occupational Health: Examination and Appointment Management
+(Gramont Accelerator)
+Safety Instructions Management (Gramont Accelerator)
+For information about Safety Datasheet Authoring and related
+Chemical Compliance topics, please visit our Product Safety &
+Compliance sections.
+Find out more about the best SAP solution for your company
+CONTACT US
+SAP PLM Recipe
+Development SAP EHS and EHSM
+SAP PLM for Discrete
+Industries
+SAP Master Data
+Governance
+Regulatory
+Compliance
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIES
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+ 
+24/09/2024, 20:43 SAP EHS - Environment, Health and Safety Management Systems — GRAMONT
+https://www.gramont.consulting/expertise/ehs-ehsm 2/2
+Regulatory Compliance
+SAP Compliance Connect ﻿ for Process
+Industries
+Follow and respect all applicable internal and global laws and
+regulations with a few clicks
+Companies are committed to follow and respect all applicable local
+laws in each of their Markets as stated in the Corporate Business
+Principles. Compliance with internal norms and standards is also
+mandatory. Regulatory Compliance includes respecting all
+applicable regulatory and legal requirements such as regulations
+from authorities (Legislations), Compliance Calculations and
+Labeling Regulations for all industries concerning food, nutrition,
+pharmaceuticals and other consumer goods.
+Receive embedded access to the
+Compliance Cloud
+with integration into standard SAP Recipe, Specification and Label Object
+Models, custom analysis and reports, aggregated and detailed results for
+all selected standards and regulations, full history and traceability of
+Compliance Assessment.
+Compliance Connect will let you check your recipe developments for
+internal or external regulations through a comprehensive traffic light
+overview with drill-down to detailed Compliance Check, ensuring global
+and internal Regulatory Compliance.
+24/09/2024, 20:43 Regulatory Compliance and Product Compliance — GRAMONT
+https://www.gramont.consulting/expertise/regulatory-compliance 1/3
+The Regulatory Compliance Check
+provides an interface to external
+compliance content providers
+Fully integrated in the SAP-PLM module (Recipe Development), the SCC
+add-on offers users the possibility to check the compliance of any
+product in the database: Recipes, Specification, Raw Materials, etc.. With
+a few clicks, directly from within SAP PLM every user can review the
+compliance status of the product.
+Via a tile in the FIORI Launchpad users can access SCC, where it is
+possible to search and extract regulations from any market or
+organization, aggregate and compare results, review the history, extract
+reports and perform a rich set of operations that help regulatory affairs
+to keep an eye on constantly evolving regulations.
+Get a notification whenever guidelines have been updated for relevant
+recipes, check multiple market positions with one click and recieve
+aggregated, detailed summary results of input parameters used for
+calculations for all selected standards and regulations.
+Find out more about the best SAP solution for your company
+CONTACT US
+SAP PLM Recipe
+Development SAP EHS and EHSM
+SAP PLM for Discrete
+Industries
+SAP Master Data
+Governance
+Regulatory
+Compliance
+HOME
+EXPERTISE
+INDUSTRIES
+CAREER
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+ 
+24/09/2024, 20:43 Regulatory Compliance and Product Compliance — GRAMONT
+https://www.gramont.consulting/expertise/regulatory-compliance 2/3
+﻿ SERVICES
+PRODUCTS
+ABOUT
+CONTACT
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+24/09/2024, 20:43 Regulatory Compliance and Product Compliance — GRAMONT
+https://www.gramont.consulting/expertise/regulatory-compliance 3/3
+Label Management with PLM
+SAP PLM Label Management
+Fast, consistent and compliant Label Declaration Management for
+Food & Beverage
+In todays global market the multitude of country specific labeling
+legislations are complex to manage. The creation and translations of
+multi-language labels require a high effort for companies in the
+Process Industries. Ususally the end-to-end data flow from
+ingredients to label and beyond is not available, creating a low user
+acceptance for existing label management solutions due to the
+many manual steps required.
+GRAMONT Accelerator Easy Label
+Management
+As a solution to that problem GRAMONT has developed the Accelerator
+Easy Label Management for SAP PLM Label Management.
+Speed up label ingredients declaration generation with default
+declarable names, automatic grouping, easy QUID management and
+many other functions.
+Stay compliant with local labeling legislations as target locations control
+the declaration generation.
+End-to-End Data integration and Out of the box solution are integrated in
+standard. Get a head start with pre- developed screens, functions,
+24/09/2024, 20:43 SAP PLM Label Management for process industries — GRAMONT
+https://www.gramont.consulting/expertise/plm-label-management 1/3
+configuration and content integrated in SAP standard processes.
+Learn from Industry Best Practice
+With Easy Label Management streamlined declarations of ingredients
+from recipes or specifications, based on country specific compliance
+guidelines, are fully integrated in standard SAP PLM Label Management.
+GRAMONT Easy Label is an Add-On plus conceptual framework with
+standardized customizing and content. Simple guided procedure screens
+with default values based on target locations are easy to use for
+advanced and novice users.
+Easy Label Management can be implemented on Specification
+Management, Recipe Development or classic Recipe Management and
+offers standard reporting (WWI) integration. Choose between
+deployment options on-premise or cloud. Guaranteed end-to-end
+information flow from purchasing specification to PIM via transfer to
+output specification. Multiple BADIs for customer specific enhancements
+are also available.
+Find out more about the best SAP solution for your company
+CONTACT US
+SAP PLM Recipe
+Development SAP EHS and EHSM
+SAP PLM for Discrete
+Industries
+SAP Master Data
+Governance
+Regulatory
+Compliance
+HOME
+EXPERTISE
+﻿ SERVICES
+INDUSTRIES
+CAREER
+ABOUT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+ 
+24/09/2024, 20:43 SAP PLM Label Management for process industries — GRAMONT
+https://www.gramont.consulting/expertise/plm-label-management 2/3
+PRODUCTS CONTACT
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+24/09/2024, 20:43 SAP PLM Label Management for process industries — GRAMONT
+https://www.gramont.consulting/expertise/plm-label-management 3/3
+GRAMONT LabelNow
+A Labeling Software Solution for Process
+Industries
+LabelNow is the answer for the challenges process industries face in
+a global market
+In recent years Customers have become more and more conscious
+about their purchasing decisions. Regulatory organizations in
+various countries or regions demand more and more detailed
+information on products. Producers are in a crunch from both sides
+to provide all these informations on their products’ printed labels
+and online presence, as purchasing decisions are increasingly taken
+in front of the screen.
+While the markets are becoming a global playground, with items being
+purchased and shipped around the world in just a matter of days, all
+these demands are being matched with producers high expectations for
+Labeling Software that covers all these areas and offers a unique user
+experience by being easy to use and intuitive.
+Erika Trungel
+LabelNow
+Product Owner
+REQUEST DEMO
+24/09/2024, 20:44 GRAMONT LabelNow — GRAMONT
+https://www.gramont.consulting/products/labelnow-plm-label-solution 1/3
+Overview
+Solution Overview
+LabelNow is a scalable, cloud-based application on SAP’s Cloud Platform. As part of SAP’s Product Lifecycle
+Management (PLM) offering, LabelNow is the next generation SAP standard application for product label
+management.
+It was developed by years of industry experience and in cooperation with SAP and the Recipe Developments
+user community, to deliver the best in breed business application for producing industry labeling needs.
+Following the latest SAP FIORI designs, the broadest integration with SAP’s business suites and most secure
+business cloud available today for global businesses.
+This unmatched offering is deliverable for businesses working with Mono- and Multilanguage labels, facing
+Inter-Market Supply scenarios and different regulations around the globe.
+Through our development process, Label now was developed with a focus on the end users inside the
+company. During repetitive validation and testing of the application design with real end users, LabelNow
+has achieved a highly reduced number of clicks (compared to previously existing business application for
+label creation), using high level automation and an exclusive ‘Smart Copy’ feature, that allows to re-use
+major parts and declarations of a label, while replacing the source object for creation.
+Label templates allow definitions of all the necessary process control and output related information per
+country, language, product category and permit to achieve a very high level of automation with predefined
+ad-hoc or dictionary based phrases and texts or even servings or product preparation skeletons.
+Challenges
+How can food companies ensure they are providing all relevant product information attributes
+(including translation) with speed and accuracy while complying with labeling regulations?
+Product labels are the primary method of communicating product information between companies and
+their consumers. Consumers rely on accurate food labels to make informed decisions.
+During the process of labeling, raw information gets transferred and enriched into legal compliant product
+information and adapted to the desired marketing message to create artwork (graphical design) or to be
+shared on webpages or data hubs.
+Product labeling is an intrinsic part of the product definition process in the food industry. Typically three
+solutions / capabilities are required:
+- labeling (connected to recipe development & including translation)
+- artwork (graphics)
+- compliance (local governments and international agencies have created stricter controls in order to
+protect consumers and regulate food companies)
+Features & Functions
+Announcements
+24/09/2024, 20:44 GRAMONT LabelNow — GRAMONT
+https://www.gramont.consulting/products/labelnow-plm-label-solution 2/3
+LabelNow Webinar
+See a recording of the LabelNow Webinar or
+feel free to download a copy of the
+presentation that was shared.
+Would like more information?
+REQUEST DEMO
+POLARIS GRAMONT Scoring
+Suite
+GRAMONT Easy
+Specification
+Management
+GRAMONT LabelNow GRAMONT
+Specification Version
+Management
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIES
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+ 
+24/09/2024, 20:44 GRAMONT LabelNow — GRAMONT
+https://www.gramont.consulting/products/labelnow-plm-label-solution 3/3
+POLARIS
+J O I N T H E C U S T O M E R
+I N F L U E N C E G R O U P
+F O R P O L A R I S
+Polaris - Driving speed and accuracy into
+product submission process
+Polaris benefits Life Science companies in a global market with
+increasing regulatory challenges
+European Medicines Agency (EMA) is in the process of implementing the
+standards developed by the International Organization for
+Standardization (ISO) for the identification of medicinal products (IDMP).
+These standards specify the use of standardized definitions for the
+identification and description of medicinal products for human use. This
+facilitates the reliable exchange of medicinal product information in a
+robust and consistent manner, by providing a common product
+’language’ for stakeholders to use in their interactions. Following the
+implementation of the ISO IDMP standards, the agency will replace its
+data-submission format in line with the ISO IDMP standards, terminology
+and formats.
+Judit Virgula
+Polaris Product
+Owner
+REQUEST A DEMO
+To prepare product information submission, companies must gather vast amount of data across their
+enterprises (regulatory, R&D, supply chain,..). Gramont Polaris is the SAP Cloud Application used to
+consolidate structured and unstructured data to prepare electronic submission of regulatory dossier
+for marketing authorization. It enables the integration, aggregation and standardization of those data
+24/09/2024, 20:44 GRAMONT Polaris - speed and accuracy for Life Science product submissions — GRAMONT
+https://www.gramont.consulting/products/gramont-polaris 1/3
+as well as their conversion into ISO IDMP standards, terminology and formats. It offers a flexible
+architecture that helps companies meet additional regulations requirements as they emerge.
+Overview
+What is Polaris?
+Polaris is the SAP Cloud Application used to consolidate structured and unstructured data from multiple
+existing sources (ERP, MDG, PLM, Clinical Trial, Excel,…) to prepare electronic submission of regulatory
+dossier for marketing authorization.
+It includes
+- Management of product information (Medicinal products, Devices, FMCG products…)
+- Preparation of regulatory specific content, submission and tracking of market authorization
+- Management of structured and unstructured data
+- Management of controlled vocabularies
+- Planning, tracking, integration of changes
+- Embedded data quality and data consistency checks
+- A flexible framework accommodating current and future data-exchange procedures globally
+It is an integrated extension of the SAP ECC and S4 products and is SAP’s standard way to manage this part
+of the product data submission/registration business process.
+Features & Benefits
+Announcements
+POLARIS GRAMONT Scoring
+Suite
+GRAMONT Easy
+Specification
+Management
+GRAMONT LabelNow GRAMONT
+Specification Version
+Management
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIES
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+ 
+24/09/2024, 20:44 GRAMONT Polaris - speed and accuracy for Life Science product submissions — GRAMONT
+https://www.gramont.consulting/products/gramont-polaris 2/3
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+24/09/2024, 20:44 GRAMONT Polaris - speed and accuracy for Life Science product submissions — GRAMONT
+https://www.gramont.consulting/products/gramont-polaris 3/3
+GRAMONT COMPAS - 360°
+Compliance Assessment of Internal
+Standards and External Regulations
+Creation of a product can be time consuming and costly. But
+creating a product without knowing whether it complies with the
+internal regulations of the company and external regulations of
+the target market can cost even more. The later the compliance
+becomes an aspect of the product development, the more cost it
+will mean due to work that needs to be redone.
+In a world, where the idea to market shall be decreased, where even big
+telecommunication-technology companies are „obliged” by the market to
+release a brand new version of their equipment or where a food product
+on market A shall be introduced on market B in just a matter of few
+months, it becomes more and more important to make quick decisions
+during product development to be able to go to market as soon as
+possible .
+Assess and Comply to external
+regulations with a few clicks
+GRAMONT’s Compas builds upon many years of industry and consumer
+experience in the field of PLM (Product Lifecycle Management) with the
+intention to deliver a 360° compliance from the supplier of a raw
+24/09/2024, 20:45 Compliance Assessment with GRAMONT COMPAS — GRAMONT
+https://www.gramont.consulting/products/gramont-compas 1/3
+material until the end consumer. Through the complete product design,
+from supplier collaboration to product formula design, from physical Bill
+of Material (BOMs) to packaging concept design and for Label design
+GRAMONT’s Compas gives 360° real time compliance assessment with
+reporting and analytical capabilities supporting data-driven decision with
+connection to digital product information solutions (e.g.: artwork, data
+hubs).
+Running an integrated compliance assessment is supported by a user-
+friendly interface and user-centric application design. Linked to multiple
+objects within your product development, any aspects of your
+compliance (internal, external, reconstitution, safety compliance,
+supplier, components, etc.) can be defined and checked with ease, while
+evaluations can be seen instantly and results can be stored on demand.
+Further connected add-ons to Compas – also developed by
+GRAMONT – will further optimize costs. The Formula optimization
+add-on integrated into SAP PLM Recipe Development can help you
+with linear and non-linear problem solving, proposition of
+quantities, alternative items even with target driven by cost, carbon
+footprint, nutrient or substance content. The integrated Simulation
+add-on can evaluate impact of ingredient change in a recipe/recipe
+portfolio. Mass change capabilities help to shorten development
+time and data maintenance while fast evaluation enables to catch
+procurement opportunities on commodities but also on regular
+supplier benchmarking exercises.
+GRAMONT’s Compas application is a scalable, cloud-based application
+built upon SAP’s Cloud Platform which servers as a trusted platform for
+businesses around the world. The flexible design of the application also
+enables you to connect to compliance data providers of your company’s
+choice or select one of the existing integrated providers.
+Find out more about the best GRAMONT Product for your company
+CONTACT US
+24/09/2024, 20:45 Compliance Assessment with GRAMONT COMPAS — GRAMONT
+https://www.gramont.consulting/products/gramont-compas 2/3
+POLARIS GRAMONT Scoring
+Suite
+GRAMONT Easy
+Specification
+Management
+GRAMONT LabelNow GRAMONT
+Specification Version
+Management
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIES
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+ 
+24/09/2024, 20:45 Compliance Assessment with GRAMONT COMPAS — GRAMONT
+https://www.gramont.consulting/products/gramont-compas 3/3
+GRAMONT Vendor Connect
+Seamless Collaboration on structured
+PLM and Master Data with Business
+Partners
+With GRAMONT’s Vendor Connect the vision of a seamless end-to-
+end data flow from vendor to customer becomes a reality
+﻿﻿ There is a growing need to efficiently manage the increasing
+number of externally sourced Finished Products and Raw Materials
+with ever shorter lifecycles. In addition, regulatory compliance and
+documentation requirements are becoming more and more
+stringent. This is especially true in the Process Industry like FMCG,
+Lifescience, Chemicals or Pharma.
+Vendor Connect - an extension of SAP
+Enterprise Product Development
+Vendor Connect manages all requirements for a streamlined and
+efficient collaboration with vendors on PLM and Master Data like
+specifications, recipes, labels & artwork, documents and materials. It is
+directly integrated and leverages the functionality of SAP Intelligent
+Product Design (IPD). It will be replaced by SAP functionality (expected in
+2021).
+Target user groups are R&D, Purchasing, Master Data Management, QM,
+Compliance & Legal, Product Management and related areas.
+24/09/2024, 20:45 Vendor Connect - Connecting Vendor and Customer — GRAMONT
+https://www.gramont.consulting/products/vendor-connect 1/3
+Gramont Vendor Connect supports in the management of the Vendor
+specification portfolio and document requirements in an efficient way to
+expose structured data including configuration data, rules, value list
+without redundancy. The Structured data exchange for specification
+objects and documents as well as for Material Master / Material Master
+Change Request in the cloud is at the core of the solution. Business users
+have the opportunity for a flexible layout creation – displaying only the
+relevant information per product category, user group or lifecycle stage.
+All objects in Vendor Connect are integrated into the specification,
+document and/or material lifecycle and status management as well as
+into the standard SAP business partner functions e.g. for management of
+Vendor Sites.
+Notification and workflow management for the internal team as well as
+for external partners, validity and expiration management and campaign
+management for managing collaboration with multiple vendors at once
+are further features.
+Find out more about the best GRAMONT Product for your company
+REQUEST DEMO
+POLARIS GRAMONT Scoring
+Suite
+GRAMONT Easy
+Specification
+Management
+GRAMONT LabelNow GRAMONT
+Specification Version
+Management
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIES
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+ 
+24/09/2024, 20:45 Vendor Connect - Connecting Vendor and Customer — GRAMONT
+https://www.gramont.consulting/products/vendor-connect 2/3
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+24/09/2024, 20:45 Vendor Connect - Connecting Vendor and Customer — GRAMONT
+https://www.gramont.consulting/products/vendor-connect 3/3
+GRAMONT Translation Hub
+Translation Services for Master &
+Product Data
+GRAMONT Translation Hub (GTH) simplifies multilingual
+translations for global applications and offers content for
+software development related translations by applying lessons of
+machine learning.
+Challenges
+﻿ Industry and Customer specific translations need to be in line with
+Government regulations. The challenges are a lack of integration for any
+kind of translation automation in Legacy Software. Translating business
+objects requires a high amount of manual labor and there are no Plug
+and Play solutions for SAP Master Data / PLM or SAP Cloud Platform from
+3rd party suppliers. Building centralized Translation libraries is a
+complex process and the validation process for Translations in Corporate
+Translation Hubs is a time consuming effort.
+Solution: GRAMONT Translation Hub
+(GTH)
+Translate and get suggestions for UI texts during development
+Integrated with best in class Google Neural Machine Translation with
+support for 100+ languages
+24/09/2024, 20:45 Translation Services for Master and Product Data — GRAMONT
+https://www.gramont.consulting/products/gramont-translation-hub 1/2
+Customer Dictionary to store customer, industry specific translations
+(e.g. phrases, declarable names)
+Automated update and learning without the need of maintaining
+translations in a separate Application
+Batch translation of objects (e.g. mass translation of Phrases)
+Out of the Box Integration into SAP S/4HANA & SAP Cloud Platform
+Find out more about the best GRAMONT Product for your company
+REQUEST DEMO
+GRAMONT Scoring
+Suite
+GRAMONT Easy
+Specification
+Management
+GRAMONT
+Specification Version
+Management
+GRAMONT
+Translation Hub
+GRAMONT
+OptimizeNow
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIES
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+ 
+24/09/2024, 20:45 Translation Services for Master and Product Data — GRAMONT
+https://www.gramont.consulting/products/gramont-translation-hub 2/2
+GRAMONT OptimizeNow
+The Optimization Tool for Process
+Industries
+Design compliant formula - minimizing cost, enabling faster
+product development processes and higher agility in responding
+to business environment changes﻿
+Evaluate the impact of ingredient change in a recipe / recipe
+portfolio and support real time impact assessment on cost,
+nutritional composition, label and more with this GRAMONT
+solution.
+Recipe Formula Optimization
+Constraint driven recipe formulation, proposing optimal ingredient
+quantities to match product compliance and minimize cost, carbon
+footprint, nutrient or substance content
+Ingredient selection
+Evaluate new or alternate ingredient and automatically select the best
+option for your formula
+Recipe portfolio Optimization
+Harmonize & Simplify recipe portfolio to optimize cost, compliance
+and/or manufacturing strategy
+24/09/2024, 20:45 Optimization Tool for Processing Industries — GRAMONT
+https://www.gramont.consulting/products/plm-optimization-tool 1/3
+Manufacturing
+Adapt ingredient quantities at batch level to compensate natural
+ingredient variability & optimize ingredient usage
+Linear and non linear problem handling
+Capable to handle simple and complex problems with multi-stages,
+multi-recipes as well as evaporation or calculated nutrients (ratio,
+energy,…)
+SAP PLM Recipe Development Integration
+Plug and play with SAP RD. Optimized recipes are transferred to your
+application
+Connection to GRAMONT Add-ons
+Compas 360° & OptimizeNow
+Complementary add-ons enabling customers excelling at compliance to
+be trusted by all stakeholders and higher agility in responding to
+business environment changes
+Associated to Compas 360° and OptimizeNow, simulation capabilities
+enable fast formula adaptation as well as building flexibility in recipe to
+maximize cost savings over time while ensuring compliance.
+What-if analysis without recipe creation
+Evaluate change impact of alternative/new ingredient usage in a recipe
+or recipe portfolio.
+Embedded mass change capabilities
+to shorten development time and minimize data maintenance
+Fast evaluation and change
+enabling manufacturer to catch procurement opportunities on
+commodities but also on regular supplier benchmarking exercises.
+Find out more about the best GRAMONT Product for your company
+REQUEST DEMO
+24/09/2024, 20:45 Optimization Tool for Processing Industries — GRAMONT
+https://www.gramont.consulting/products/plm-optimization-tool 2/3
+POLARIS GRAMONT Scoring
+Suite
+GRAMONT Easy
+Specification
+Management
+GRAMONT LabelNow GRAMONT
+Specification Version
+Management
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIES
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+ 
+24/09/2024, 20:45 Optimization Tool for Processing Industries — GRAMONT
+https://www.gramont.consulting/products/plm-optimization-tool 3/3
+GRAMONT Accelerators
+GRAMONT Accelerators provide unique
+innovations in S/4HANA and ERP
+GRAMONT Accelerators come with no upgrade and are compatible
+with your releases
+Accelerators are used in projects to speed up implementation and
+cover areas in PLM that are not optimally covered by standard SAP.
+They bring target functionality for specific industries and use cases
+on top of the already comprehensive functionality from SAP. Based
+on past successful Master Data and PLM Implementations
+GRAMONT Accelerators provides unique innovations in S/4HANA
+and ERP.
+Find out more about the best Gramont Product for your company
+REQUEST DEMO
+24/09/2024, 20:46 GRAMONT Accelerators - Innovations in S/4HANA and ERP — GRAMONT
+https://www.gramont.consulting/products/gramont-accelerators 1/2
+POLARIS GRAMONT Scoring
+Suite
+GRAMONT Easy
+Specification
+Management
+GRAMONT LabelNow GRAMONT
+Specification Version
+Management
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIES
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+ 
+24/09/2024, 20:46 GRAMONT Accelerators - Innovations in S/4HANA and ERP — GRAMONT
+https://www.gramont.consulting/products/gramont-accelerators 2/2
+GRAMONT OptimizeNow
+The Optimization Tool for Process
+Industries
+Design compliant formula - minimizing cost, enabling faster
+product development processes and higher agility in responding
+to business environment changes﻿
+Evaluate the impact of ingredient change in a recipe / recipe
+portfolio and support real time impact assessment on cost,
+nutritional composition, label and more with this GRAMONT
+solution.
+Recipe Formula Optimization
+Constraint driven recipe formulation, proposing optimal ingredient
+quantities to match product compliance and minimize cost, carbon
+footprint, nutrient or substance content
+Ingredient selection
+Evaluate new or alternate ingredient and automatically select the best
+option for your formula
+Recipe portfolio Optimization
+Harmonize & Simplify recipe portfolio to optimize cost, compliance
+and/or manufacturing strategy
+24/09/2024, 20:46 Optimization Tool for Processing Industries — GRAMONT
+https://www.gramont.consulting/products/plm-optimization-tool 1/3
+Manufacturing
+Adapt ingredient quantities at batch level to compensate natural
+ingredient variability & optimize ingredient usage
+Linear and non linear problem handling
+Capable to handle simple and complex problems with multi-stages,
+multi-recipes as well as evaporation or calculated nutrients (ratio,
+energy,…)
+SAP PLM Recipe Development Integration
+Plug and play with SAP RD. Optimized recipes are transferred to your
+application
+Connection to GRAMONT Add-ons
+Compas 360° & OptimizeNow
+Complementary add-ons enabling customers excelling at compliance to
+be trusted by all stakeholders and higher agility in responding to
+business environment changes
+Associated to Compas 360° and OptimizeNow, simulation capabilities
+enable fast formula adaptation as well as building flexibility in recipe to
+maximize cost savings over time while ensuring compliance.
+What-if analysis without recipe creation
+Evaluate change impact of alternative/new ingredient usage in a recipe
+or recipe portfolio.
+Embedded mass change capabilities
+to shorten development time and minimize data maintenance
+Fast evaluation and change
+enabling manufacturer to catch procurement opportunities on
+commodities but also on regular supplier benchmarking exercises.
+Find out more about the best GRAMONT Product for your company
+REQUEST DEMO
+24/09/2024, 20:46 Optimization Tool for Processing Industries — GRAMONT
+https://www.gramont.consulting/products/plm-optimization-tool 2/3
+POLARIS GRAMONT Scoring
+Suite
+GRAMONT Easy
+Specification
+Management
+GRAMONT LabelNow GRAMONT
+Specification Version
+Management
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIES
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+ 
+24/09/2024, 20:46 Optimization Tool for Processing Industries — GRAMONT
+https://www.gramont.consulting/products/plm-optimization-tool 3/3
+GRAMONT Scoring Suite
+Calculate Nutri-Score, Eco-
+Score, and / or UK Traffic
+Light directly in SAP PLM
+The new GRAMONT Scoring Suite with Nutri-Score, UK Traffic Light
+nutritional scheme, and Eco-Score are now available directly within
+SAP PLM.
+Product developers can easily visualize Nutri-Score and/or UK Traffic
+Light information for products during the development process and
+iteratively adjust the nutrients for an optimal front-of-pack labelling.
+Recipe formulas can be adapted on the fly with integrated calculations
+showing detailed ingredients, nutrients and thresholds information.
+The calculations for the scoring systems are implemented in SAP PLM
+Specification, Recipe and LabelNow Cloud Solution. The available scoring
+systems are easily adjustable to regulation changes thanks to the use of
+a generic framework. They can also be easily extended to additional
+nutritional or environment schemes. The Scoring Suite serves as a
+guideline and support for companies that aim to improve their scores
+and address growing consumer demands for transparency.
+24/09/2024, 20:46 Calculate Nutri-Score, Eco-Score and Traffic Light in SAP PLM — GRAMONT
+https://www.gramont.consulting/products/nutri-score-traffic-light-in-sap-plm-recipe-development 1/4
+Margherita
+Bussu
+SAP PLM
+Consultant
+Find out how you can
+calculate Nutri-Score, Eco-
+Score or UK Traffic Light as
+well as other advance
+features directly within SAP
+PLM Recipe Development.
+Request a demo today
+REQUEST A DEMO
+Nutri-Score
+The Nutri-Score is an easily
+understandable front-of-pack
+nutritional rating system for food
+and beverages introduced by the
+European Union. It is officially
+recommended by the World
+Health Organization and health authorities in France, Germany, Belgium,
+Netherlands, Luxembourg, and Spain.
+The code consists of 5 colors, each with its own letter (A to E) which
+enables the consumer to get an overview of the nutritional value of the
+product. In addition, it allows a quick nutritionally meaningful
+comparison of foods within a product group, as a food with a green A
+rating is more likely to contribute to a healthy diet than a product with a
+red E.
+Nutri-Score calculation is based on information companies already use
+for the creation of nutritional value tables and ingredient lists of their
+products. Nutri-Score itself is based on comprehensive, transparent,
+independent scientific approach developed following a large concertation
+with a large number of stakeholders (industry, retailers, consumers,
+scientists).
+UK Traffic Light nutritional rating
+system
+24/09/2024, 20:46 Calculate Nutri-Score, Eco-Score and Traffic Light in SAP PLM — GRAMONT
+https://www.gramont.consulting/products/nutri-score-traffic-light-in-sap-plm-recipe-development 2/4
+The Traffic Light is an informative
+nutritional rating system
+developed by the Food Standards
+Agency (FSA) placed on pre-
+packaged food and drinks used
+mainly in the UK and Ireland.
+The color coding gives the consumer a quick overview of the nutritional
+information and helps them to make a healthy choice by comparing
+products quickly. The Traffic Light gives the amount of energy per serving
+and shows whether a product is high (red), medium (amber) or low
+(green) in fat, saturated fat, sugars and salt. Nutrients with “green”
+indicators are healthier and to be preferred over those with “red”
+indicators. Additionally, it provides information about the reference
+intakes per serving.
+Eco-Score
+The Eco-Score rates the
+environmental impact of a
+product from the production to
+the consumption. The
+Classification of products are color
+coded according to their impact on the environment: from a green A
+(low) to a red E (high). Depending on environmental impact a score of up
+to 100 is given.
+The scoring is evaluated on two components: The Life Cycle Assessment
+(LCA) based on the French database Agribalyse with information on the
+impact of production, transport, manufacturing, packaging of food on
+the environment. Additional quality criteria, such as recyclability, and
+origin of ingredients (regionality and seasonality) are also considered.
+Get in Contact with our PLM Consultants and find out how you can
+calculate the Nutri-Score, Eco-Score or UK Traffic Light nutritional
+rating systems and other advance features directly within SAP PLM.
+REQUEST A DEMO
+24/09/2024, 20:46 Calculate Nutri-Score, Eco-Score and Traffic Light in SAP PLM — GRAMONT
+https://www.gramont.consulting/products/nutri-score-traffic-light-in-sap-plm-recipe-development 3/4
+POLARIS GRAMONT Scoring
+Suite
+GRAMONT Easy
+Specification
+Management
+GRAMONT LabelNow GRAMONT
+Specification Version
+Management
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIES
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+ 
+24/09/2024, 20:46 Calculate Nutri-Score, Eco-Score and Traffic Light in SAP PLM — GRAMONT
+https://www.gramont.consulting/products/nutri-score-traffic-light-in-sap-plm-recipe-development 4/4
+GRAMONT Specification Version Management
+Specification Versioning for SAP ECM
+Improving the standard solution for managing the history in
+specification management
+Specification Versioning provides a process and user specific set up,
+improving the user experience with SAP Enterprise Content Management
+(ECM). The solution adds explicit or implicit versioning to standard SAP
+specification management with a clear visibility on versions and set
+version validity in release process.
+User-friendly Version Management for
+Specifications integrated in Standard
+SAP PLM
+Version management seamlessly integrated into specification
+management activities using standard PLM tools.
+GRAMONT accelerator Specification Versioning for SAP PLM Specification
+Management
+User interfaces and processes integrated in all standard SAP PLM
+specification management activities
+Features of GRAMONT Accelerator Specification Versioning include
+Screen for selection of version when opening a specification in change or
+create mode
+24/09/2024, 20:47 SAP Specification Version Management for Process Industries — GRAMONT
+https://www.gramont.consulting/products/product-specification-management 1/3
+Automatic version creation when creating new specification including
+version selection in copy-from
+Option to create new version from version overview screen
+Overview of all versions of a specification including status and validity
+dates
+Update of version validity dates from release process, i.e. from setting
+release status or process route decision
+Customizing options to activate specification versioning, control
+behavior, versioning format, etc. per specification type
+Integrated in standard reporting and search
+Client specific enhancement options via BADIs
+Your Benefits
+Have clear Visibility on the version history of your specifications
+Have all relevant version information on one screen including dates and
+status
+Version display in standard specification maintenance screens
+Simple and easy-to-use user interface and process
+Integrated in standard process
+No need to create an ECN
+Ready-to-use solution integrated in standard
+Learn from industry best practice
+﻿ Get a head start with pre-developed screens, functions, configuration
+and content integrated in SAP standard processes
+Find out more about the best GRAMONT Product for your company
+REQUEST DEMO
+24/09/2024, 20:47 SAP Specification Version Management for Process Industries — GRAMONT
+https://www.gramont.consulting/products/product-specification-management 2/3
+GRAMONT Scoring
+Suite
+GRAMONT Easy
+Specification
+Management
+GRAMONT
+Specification Version
+Management
+GRAMONT
+Translation Hub
+GRAMONT
+OptimizeNow
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIES
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+ 
+24/09/2024, 20:47 SAP Specification Version Management for Process Industries — GRAMONT
+https://www.gramont.consulting/products/product-specification-management 3/3
+GRAMONT GROUP | Switzerland | North America | Germany | Hungary | India | Spain
+https://www.gramont.consulting/
+Implementation of SAP PLM RD as Update to the existing SAP RM
+2020
+The Customer
+Zott SE & Co. KG is a traditional Bavarian family-owned
+dairy company, producing a variety of yoghurts, desserts
+and cheese specialties. Their products are available in
+numerous countries around the world. With a net
+turnover of 935 million EUR and 898 million liters of
+processed milk in 2020 and about 2,800 employees at
+present, Zott is amongst the leading dairies in Europe.
+Business Needs
+Zott is using SAP software for different business needs
+since 2007. As part of the digital transformation which
+leads to an S/4 HANA database usage, a migration from
+the existing Recipe Management module to SAP Recipe
+Development had to be implemented.
+The Challenge
+The introduction of the new S/4 HANA generation at Zott
+induced a complete revamp of the group-wide existing
+R&D landscape. Facing the additional challenges of the
+Corona pandemic, this ambitious plan was realized by
+the collaborating teams of GRAMONT Germany, the Zott
+IT department and Zott R&D experts within planned time
+and budget.
+“Group-wide SAP S/4 HANA Upgrade in record time”
+Executive Director Finance & Service of ZOTT
+The Solution
+GRAMONT implemented SAP PLM with special focus on
+processes in Recipe Development and a successful data
+conversion and migration. Therefore, all recipe related
+data had to be converted to a format which is satisfying
+the requirements of the HANA database structures.
+Normally, introducing the new technology in Zott’s
+process landscape, which had been growing over the
+past 13 years, would take three years. Due to the
+pressure placed on this transformation, and the
+necessity of creating a new technical platform for further
+optimizations, the goal was to complete the introduction
+in only 12 months by handling many different parts of
+the project in parallel.
+“We succeeded because everyone managing the
+different interfaces supported us by giving our RD
+project priority” says Zott’s Department Manager
+of Fruit Product Development.
+Now that Zott has a forward-thinking system ready
+for all of the company projects, they will require IT
+support in the coming years. We at GRAMONT are
+proud to be part of that journey.
++
+Berlin - SAP Developer for PLM and EHS
++
+Berlin - SAP Consultant for PLM and EHS
+SAP
+Consultant
+for PLM
+and EHS
+We are currently
+seeking SAP
+professionals on a
+Consultant or Senior
+Consultant level for
+our German
+subsidiary in Berlin.
+Consultant
+(entry level)
+• Bachelor or
+Master of
+Science
+degree (or
+similar) in
+Business
+Administrati
+on,
+Computer
+Senior
+Consultant
+(for
+candidates
+with >3
+years of
+consulting
+experience)
+• 3+ years of
+hands-on
+Careers at Gramont
+24/09/2024, 20:38 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 1/6
+Required
+Languages for this
+position:
+German
+English
+Are you interested
+in one of our job
+offers?
+We are looking
+forward to receiving
+your application
+including your
+resume.
+APPLY
+Science,
+Nutritional
+Science,
+Chemical
+Engineering,
+Environmen
+tal
+Engineering,
+Chemistry,
+Food
+Chemistry
+or related
+discipline.
+• Strong
+analytical,
+process-
+oriented
+skills and
+ability to
+work in a
+large, multi-
+cultural and
+global
+environmen
+t.
+SAP
+configuratio
+n
+experience
+in SAP PLM
+(Recipe
+Managemen
+t, QM),
+EH&S,
+Supply
+Chain
+Managemen
+t / Logistics
+(e.g.: PP-PI,
+PP, MM, SD)
+• Experience
+with
+ABAP/4, SAP
+Web
+Dynpro,
+HANA or
+FIORI
+technology
+is a plus
+• Completion
+of 3+ full
+24/09/2024, 20:38 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 2/6
+• Excellent
+oral and
+written
+German and
+English
+communicat
+ion skills.
+• Ability to
+travel up to
+50%
+(average is
+below 50%),
+based on
+project
+standards
+(always
+home on
+weekends)
+Consultant
+(for
+candidates
+with >1
+year of
+consulting
+experience)
+project
+lifecycle
+implementa
+tions
+24/09/2024, 20:38 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 3/6
+• 1+ years of
+hands-on
+SAP
+configuratio
+n
+experience
+in SAP PLM
+(Recipe
+Managemen
+t, QM),
+EH&S,
+Supply
+Chain
+Managemen
+t / Logistics
+(e.g.: PP-PI,
+PP, MM, SD)
+• 1+ years of
+business
+experience
+in PLM,
+EH&S
+Compliance
+or Supply
+Chain
+Managemen
+t in the
+24/09/2024, 20:38 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 4/6
+process
+industry.
+• Experience
+with
+ABAP/4, SAP
+Web
+Dynpro,
+HANA or
+FIORI
+technology
+is a plus
+• Completion
+of 1-2 full
+project
+lifecycle
+implementa
+tions
++
+Budapest - SAP Food Technology Consultant / Trainee
++
+Budapest - SAP Developer for PLM and EHS
++
+Budapest - SAP Consultant for PLM and EHS
++
+Bangalore - SAP Developer for PLM and EHS
+24/09/2024, 20:38 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 5/6
++
+Bangalore - SAP Consultant for PLM and EHS
++
+North America - Senior SAP PLM Consultant - Food & Beverage Industry
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIE
+S
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+24/09/2024, 20:38 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 6/6
+GRAMONT Easy Specification Management
+Secure your investment in specification
+management by taking the User Interface
+to the next level
+The GRAMONT Accelerator Easy Specification Management is a
+FIORI® based user interface with comprehensive functionality and
+individualized layouts per user or user group, complementing the
+Standard SAP Solutions
+Easy Specification Management provides a UI that is focused and
+optimized for many of the key processes that are critical to the
+development and management of various specification types. With its
+process and user specific set up ESM complements and optimizes the
+SAP standard solution.
+﻿ SAP PLM Specification Management with
+Gramont Accelerator Easy Specification
+Management
+A Fiori® app for the standard SAP PLM specification management
+module
+The simplified screen enables maintenance of specification by reducing
+the number of clicks while all relevant fields are on one screen. Users can
+define their own layouts and set them as the default layout. User group
+specific layouts can be centrally defined. Additionally, BADIs are available
+24/09/2024, 20:47 GRAMONT Easy Specification Management — GRAMONT
+https://www.gramont.consulting/products/easy-specification-management 1/3
+to determine individualized default layouts based on client specific
+criteria e.g., per user group or process route (workflow) steps.
+This solution is extendable to a fully context sensitive selective user
+interface (UI) which automatically reduces to relevant information only.
+The full Specification Management functionalities include
+Material Assignments
+Status Management
+Inheritance Relationships
+Report Management
+and many more features
+Client-specific enhancement options via BADIs
+Benefits
+Speed up specification Data Maintenance
+Have all relevant fields on one screen including Compositions and Listing
+Optimized maintenance of User-defined Texts
+And many more feature
+State of the art User Interface with User / user group specific
+layouts
+Modern FIORI based User Interface
+Default view on relevant properties via user / user group specific layouts
+Out of the box solution integrated in standard
+Get a head start with predeveloped screens, functions, configuration and
+content integrated in SAP standard processes
+Find out more about the best GRAMONT Product for your company
+REQUEST DEMO
+24/09/2024, 20:47 GRAMONT Easy Specification Management — GRAMONT
+https://www.gramont.consulting/products/easy-specification-management 2/3
+GRAMONT Scoring
+Suite
+GRAMONT Easy
+Specification
+Management
+GRAMONT
+Specification Version
+Management
+GRAMONT
+Translation Hub
+GRAMONT
+OptimizeNow
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIES
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+ 
+24/09/2024, 20:47 GRAMONT Easy Specification Management — GRAMONT
+https://www.gramont.consulting/products/easy-specification-management 3/3
+Welcome to the World-Leading
+SAP PLM Consulting Company
+Welcome to the leading SAP consulting company for PLM, MDG and
+EHS. We support our clients from a wide range of industries with a
+focus on FCMG, Food, Pharma, Chemistry, Lifescience and discrete
+manufacturing.
+GRAMONT offers end-to-end services from Business and Application
+Consulting, Architecture and Development Services, UI/UX Design and
+Implementation, Support and Maintenance to actual Service
+Outsourcing. With its proven track record of industry experience,
+GRAMONT provides best practices on business process and
+application solutions. We help our clients to achieve their business
+goals by simplifying and accelerating digital transformation.
+Your trusted SAP Partner
+24/09/2024, 20:52 SAP PLM, MDG and EHS Consultants — GRAMONT
+https://www.gramont.consulting/about 1/8
+We have been recognized as an SAP GOLD partner for our role as an
+innovation partner and successful implementations in a range of
+industry sectors.
+The GRAMONT team consists of experienced consultants and thought
+leaders in the area of SAP Product Lifecycle Management (PLM); Recipe
+Development (RD); Environment, Health and Safety (EHS); Master Data
+Governance (MDG); Project and Portfolio Management (PPM); Business
+Intelligence/Business Warehouse SAP (BI/BW) and other modules.
+From our team locations in Switzerland, Germany, Hungary, India, and
+North America we offer high quality services with the option of
+onshore, nearshore and/or offshore delivery.
+The GRAMONT work approach is focused on the needs of our clients
+enabling them to reach their goals in an efficient manner. Important
+for us is to utilize our expertise in a work style that is collaborative,
+motivating and performance driven.
+GET IN CONTACT
+GRAMONT Leadership
+24/09/2024, 20:52 SAP PLM, MDG and EHS Consultants — GRAMONT
+https://www.gramont.consulting/about 2/8
+Anil Kumar
+Managing Partner
+GRAMONT Group
+Anil Kumar is
+responsible for
+Global Operations.
+He has more than 18
+years of experience
+in Product Lifecycle
+Management and is
+based in
+Switzerland.
+His experience and
+leadership have
+been focused on
+developing and
+delivering
+technology-driven
+Sebastian Pleister
+Managing Partner
+GRAMONT Group
+Sebastian Pleister is
+a Co-Founder of
+GRAMONT. Based in
+Switzerland he has
+project and
+organisational
+leadership
+experience in
+Europe and the USA
+since 2005. He
+started his career in
+Business and
+Technology
+Consulting in 1997
+at IDS Scheer and
+24/09/2024, 20:52 SAP PLM, MDG and EHS Consultants — GRAMONT
+https://www.gramont.consulting/about 3/8
+Carsten Scholz
+Managing Partner
+GRAMONT Germany
+Carsten Scholz is
+managing
+GRAMONT’s German
+office based in
+Daniel Bender
+Managing Partner
+GRAMONT LLC
+Dan Bender is the
+Managing Partner
+and Co-founder of
+GRAMONT LLC, a
+business services
+and solutions,
+providing
+outstanding client
+services and driving
+innovation
+initiatives.
+later at Pixelpark in
+Berlin.
+His special expertise
+is in providing
+business innvoation
+through PLM, Master
+Data and Regulatory
+Compliance
+solutions.
+24/09/2024, 20:52 SAP PLM, MDG and EHS Consultants — GRAMONT
+https://www.gramont.consulting/about 4/8
+Berlin. He entered
+SAP-related IT
+consulting in 2004,
+specializing in SAP
+PLM and EHS
+systems integration
+consulting in 2008.
+His special expertise
+includes SAP EHS
+Product Safety,
+Corporate Safety
+and Environment
+Management.
+division supporting
+customers across
+North America.
+Based in Cleveland,
+OH USA he has over
+25 years of
+experience with
+SAP’s PLM,
+Regulatory, and
+Supply Chain
+products.
+He most recently
+spent 18 years
+working for SAP in
+roles including
+Solution Owner for
+SAP’s PLM for
+Process Industry
+products where he
+co-led the team that
+developed SAP’s
+Recipe Development
+(RD) product.
+GRAMONT Office Locations
+24/09/2024, 20:52 SAP PLM, MDG and EHS Consultants — GRAMONT
+https://www.gramont.consulting/about 5/8
+Switzerland
+GRAMONT GmbH
+Churerstrasse 158
+8808 Pfäffikon
+Switzerland
+Hungary
+GRAMONT Kft.
+Bojtár utca 56
+1037 Budapest
+Hungary
+Germany
+Hungary
+GRAMONT Kft.
+Zsigmondy Vilmos utca 2
+3527 Miskolc
+Hungary
+Germany
+24/09/2024, 20:52 SAP PLM, MDG and EHS Consultants — GRAMONT
+https://www.gramont.consulting/about 6/8
+﻿ GRAMONT Deutschland GmbH
+Brunnenstr. 181
+10119 Berlin
+Germany
+﻿ GRAMONT Deutschland GmbH
+Breiter Gang 14
+49074 Osnabrück
+Germany
+India
+GRAMONT Labs Pvt Ltd
+1330 G & H Block, Panchamantra
+Road Kuvempunagar
+Mysore 570023, Karnataka
+India
+USA
+GRAMONT LLC
+Brighton Drive
+North Olmsted / OH 44070
+India
+GRAMONT Labs Pvt Ltd
+VertexOne Gateway Building, MG
+Road Ballalbagh
+Mangaluru 570023, Karnataka
+India
+UK
+GRAMONT UK
+34 South Molton Street
+London W1K 5RG
+24/09/2024, 20:52 SAP PLM, MDG and EHS Consultants — GRAMONT
+https://www.gramont.consulting/about 7/8
+North America England
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIE
+S
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+24/09/2024, 20:52 SAP PLM, MDG and EHS Consultants — GRAMONT
+https://www.gramont.consulting/about 8/8
++
+Berlin - SAP Developer for PLM and EHS
+SAP
+Developer
+for PLM
+and EHS
+We are currently
+seeking SAP
+development
+professionals on a
+Development
+Trainee, Developer
+or Senior Developer
+level for our German
+subsidiary in Berlin.
+Developer
+Trainee
+(entry level)
+• Bachelor or
+Master of
+Science
+degree (or
+similar) in
+Computer
+Science/Info
+rmatics,
+Business
+Informatics,
+Developer
+(for
+candidates
+with >1
+year of SAP
+ABAP, ABAP
+OO or Fiori
+developme
+nt
+experience)
+Careers at Gramont
+24/09/2024, 20:38 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 1/5
+Required
+Languages for this
+position:
+English
+Are you interested
+in one of our job
+offers?
+We are looking
+forward to receiving
+your application
+including your
+resume.
+APPLY
+Mathematic
+s, or other
+Natural
+Sciences
+• Strong
+analytical,
+logical skills
+and
+problem
+solving skills
+• High affinity
+to software
+developmen
+t including
+existing
+software
+developmen
+t skills
+(SAP/ABAP
+skills not
+mandatory
+on entrant
+level)
+• 1+ years of
+hands-on
+SAP
+developmen
+t experience
+in SAP PLM
+(Recipe
+Managemen
+t, QM),
+EH&S,
+Supply
+Chain
+Managemen
+t / Logistics
+(e.g.: PP-PI,
+PP, MM, SD)
+• 1+ years of
+hands-on
+experience
+with
+ABAP/4, SAP
+Web
+Dynpro,
+HANA or
+FIORI
+technology
+24/09/2024, 20:38 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 2/5
+• Ability to
+work in a
+multi-
+cultural and
+global
+environmen
+t.
+• Excellent
+oral and
+written
+communicat
+ion skills in
+English
+(German
+skills are
+welcome
+but not
+mandatory).
+• Ability to
+travel up to
+25%
+(average is
+below 25%),
+based on
+project
+standards
+Senior
+Developer
+(for
+candidates
+with >3
+years of
+SAP ABAP,
+ABAP OO or
+Fiori
+developme
+nt
+experience)
+• 3+ years of
+hands-on
+SAP
+developmen
+t experience
+in SAP PLM
+(Recipe
+Managemen
+t, QM),
+EH&S,
+Supply
+Chain
+Managemen
+24/09/2024, 20:38 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 3/5
+(always
+home on
+weekends)
+t / Logistics
+(e.g.: PP-PI,
+PP, MM, SD)
+• 3+ years of
+hands-on
+experience
+with
+ABAP/4, SAP
+Web
+Dynpro,
+HANA or
+FIORI
+technology
+• Completion
+of 3+ full
+project
+lifecycle
+implementa
+tions in a
+systems
+integration/
+consulting
+team
++
+Berlin - SAP Consultant for PLM and EHS
+24/09/2024, 20:38 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 4/5
++
+Budapest - SAP Food Technology Consultant / Trainee
++
+Budapest - SAP Developer for PLM and EHS
++
+Budapest - SAP Consultant for PLM and EHS
++
+Bangalore - SAP Developer for PLM and EHS
++
+Bangalore - SAP Consultant for PLM and EHS
++
+North America - Senior SAP PLM Consultant - Food & Beverage Industry
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIE
+S
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+24/09/2024, 20:38 Open Positions for Consultants and Developers — GRAMONT
+https://www.gramont.consulting/jobs 5/5
+Welcome to the World-Leading
+SAP PLM Consulting Company
+Welcome to the leading SAP consulting company for PLM, MDG and EHS. We
+support our clients from a wide range of industries with a focus on FCMG,
+Food, Pharma, Chemistry, Lifescience and discrete manufacturing.
+GRAMONT offers end-to-end services from Business and Application
+Consulting, Architecture and Development Services, UI/UX Design and
+Implementation, Support and Maintenance to actual Service Outsourcing.
+With its proven track record of industry experience, GRAMONT provides best
+practices on business process and application solutions. We help our clients
+to achieve their business goals by simplifying and accelerating digital
+transformation.
+We have been recognized as an SAP GOLD partner for our role as an
+innovation partner and successful implementations in a range of industry
+sectors.
+Your trusted SAP Partner
+24/09/2024, 20:36 SAP PLM, MDG and EHS Consultants — GRAMONT
+https://www.gramont.consulting/about 1/7
+The GRAMONT team consists of experienced consultants and thought leaders
+in the area of SAP Product Lifecycle Management (PLM); Recipe Development
+(RD); Environment, Health and Safety (EHS); Master Data Governance (MDG);
+Project and Portfolio Management (PPM); Business Intelligence/Business
+Warehouse SAP (BI/BW) and other modules.
+From our team locations in Switzerland, Germany, Hungary, India, and North
+America we offer high quality services with the option of onshore, nearshore
+and/or offshore delivery.
+The GRAMONT work approach is focused on the needs of our clients enabling
+them to reach their goals in an efficient manner. Important for us is to utilize
+our expertise in a work style that is collaborative, motivating and
+performance driven.
+GET IN CONTACT
+GRAMONT Leadership
+24/09/2024, 20:37 SAP PLM, MDG and EHS Consultants — GRAMONT
+https://www.gramont.consulting/about 2/7
+Anil Kumar
+Managing Partner
+GRAMONT Group
+Anil Kumar is
+responsible for Global
+Operations. He has
+more than 18 years of
+experience in Product
+Lifecycle Management
+and is based in
+Switzerland.
+His experience and
+leadership have been
+focused on developing
+and delivering
+technology-driven
+business services and
+solutions, providing
+outstanding client
+services and driving
+innovation initiatives.
+Sebastian Pleister
+Managing Partner
+GRAMONT Group
+Sebastian Pleister is a
+Co-Founder of
+GRAMONT. Based in
+Switzerland he has
+project and
+organisational
+leadership experience
+in Europe and the USA
+since 2005. He started
+his career in Business
+and Technology
+Consulting in 1997 at
+IDS Scheer and later at
+Pixelpark in Berlin.
+His special expertise is
+in providing business
+innvoation through
+PLM, Master Data and
+Regulatory Compliance
+solutions.
+24/09/2024, 20:37 SAP PLM, MDG and EHS Consultants — GRAMONT
+https://www.gramont.consulting/about 3/7
+Carsten Scholz
+Managing Partner
+GRAMONT Germany
+Carsten Scholz is
+managing GRAMONT’s
+German office based in
+Berlin. He entered SAP-
+related IT consulting in
+2004, specializing in
+SAP PLM and EHS
+systems integration
+consulting in 2008.
+His special expertise
+includes SAP EHS
+Product Safety,
+Corporate Safety and
+Environment
+Management.
+Daniel Bender
+Managing Partner
+GRAMONT LLC
+Dan Bender is the
+Managing Partner and
+Co-founder of
+GRAMONT LLC, a
+division supporting
+customers across
+North America. Based
+in Cleveland, OH USA
+he has over 25 years of
+experience with SAP’s
+PLM, Regulatory, and
+Supply Chain products.
+He most recently spent
+18 years working for
+SAP in roles including
+Solution Owner for
+24/09/2024, 20:37 SAP PLM, MDG and EHS Consultants — GRAMONT
+https://www.gramont.consulting/about 4/7
+SAP’s PLM for Process
+Industry products
+where he co-led the
+team that developed
+SAP’s Recipe
+Development (RD)
+product.
+GRAMONT Office Locations
+Map data
+©2024
+GeoBasis-
+DE/BKG
+(©2009),
+Google
+10 km Report a map error
+Switzerland
+GRAMONT GmbH
+Churerstrasse 158
+8808 Pfäffikon
+Switzerland
+Map data ©2024 Google 5 km Report a map error
+Hungary
+GRAMONT Kft.
+Bojtár utca 56
+Map data ©2024 Google Report a map error
+Hungary
+GRAMONT Kft.
+Zsigmondy Vilmos utca 2
+24/09/2024, 20:37 SAP PLM, MDG and EHS Consultants — GRAMONT
+https://www.gramont.consulting/about 5/7
+1037 Budapest
+Hungary
+Map data ©2024
+GeoBasis-DE/BKG
+(©2009), Google
+2 km Report a map error
+Germany
+﻿ GRAMONT Deutschland GmbH
+Brunnenstr. 181
+10119 Berlin
+Germany
+3527 Miskolc
+Hungary
+Map data ©2024 GeoBasis-DE/BKG
+(©2009), Google
+Report a map error
+Germany
+﻿ GRAMONT Deutschland GmbH
+Breiter Gang 14
+49074 Osnabrück
+Germany
+India
+GRAMONT Labs Pvt Ltd
+1330 G & H Block, Panchamantra
+Road Kuvempunagar
+Mysore 570023, Karnataka
+India
+India
+GRAMONT Labs Pvt Ltd
+VertexOne Gateway Building, MG
+Road Ballalbagh
+Mangaluru 570023, Karnataka
+India
+24/09/2024, 20:37 SAP PLM, MDG and EHS Consultants — GRAMONT
+https://www.gramont.consulting/about 6/7
+USA
+GRAMONT LLC
+Brighton Drive
+North Olmsted / OH 44070
+North America
+UK
+GRAMONT UK
+34 South Molton Street
+London W1K 5RG
+England
+HOME
+EXPERTISE
+﻿ SERVICES
+PRODUCTS
+INDUSTRIES
+CAREER
+ABOUT
+CONTACT
+LEGAL NOTICE
+PRIVACY POLICY
+FOLLOW US
+© Copyright GRAMONT Group | Switzerland | North America I Germany | Hungary | India | UK
+24/09/2024, 20:37 SAP PLM, MDG and EHS Consultants — GRAMONT
+https://www.gramont.consulting/about 7/7
