@@ -25,6 +25,7 @@ modules:
         properties:
           srv-url: ${default-url}
     requires:
+      - name: CAPLLM-auth
       - name: CAPLLM-db
       - name: CAPLLM-connectivity
       - name: CAPLLM-destination
@@ -38,6 +39,15 @@ modules:
       - name: CAPLLM-db
 
 resources:
+  - name: CAPLLM-auth
+    type: org.cloudfoundry.managed-service
+    parameters:
+      service: xsuaa
+      service-plan: application
+      path: ./xs-security.json
+      config:
+        xsappname: CAPLLM-${space}
+        tenant-mode: dedicated
   - name: CAPLLM-db
     type: com.sap.xs.hdi-container
     parameters:
