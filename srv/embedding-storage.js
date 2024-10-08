@@ -4,6 +4,7 @@ const { TextLoader } = require('langchain/document_loaders/fs/text')
 const { RecursiveCharacterTextSplitter } = require('langchain/text_splitter')
 const path = require('path')
 const fs = require('fs')
+const { getSpecificationHeaderData,getSpecificationItemsData } = require("./utils/getDataFromDestination.js");
   
 // Helper method to convert embeddings to buffer for insertion
 let array2VectorBuffer = (data) => {
@@ -87,6 +88,71 @@ module.exports = function() {
       console.log('Error while generating and storing vector embeddings:', error)
       throw error
     }
+})
+
+this.on('saveSpecificationVector', async (req) => {
+  try {
+
+
+    const specificationHeader = await getSpecificationHeaderData();
+    const aSpecifications = specificationHeader.map(item => item.SpecificationIntId);
+    const srcSpecFilter = {
+      "SpecificationIntId": {in: aSpecifications}
+  };
+  const specificationMaterial = await getSpecificationItemsData("SpecificationMaterials",srcSpecFilter);
+  const SpecificationAllergenComps = await getSpecificationItemsData("SpecificationAllergenComps",srcSpecFilter);
+  const SpecificationDietComps =await getSpecificationItemsData("SpecificationDietComps",srcSpecFilter);
+  const SpecificationGmoComps = await getSpecificationItemsData("SpecificationGmoComps",srcSpecFilter);
+  const SpecificationRelComps =await getSpecificationItemsData("SpecificationRelComps",srcSpecFilter);
+  const SpecificationIdentifiers = await getSpecificationItemsData("SpecificationIdentifiers",srcSpecFilter);
+
+
+    const name = 83498216
+    // const vectorPlugin = await cds.connect.to('cap-llm-plugin')
+    // const { DocumentChunk } = this.entities
+    // let textChunkEntries = []
+    // console.log(__dirname)
+    
+    // const loader = new TextLoader(path.resolve('db/data/gramont.txt'))
+    // const document = await loader.load()
+
+    // const splitter = new RecursiveCharacterTextSplitter({
+    //   chunkSize: 500,
+    //   chunkOverlap: 0,
+    //   addStartIndex: true
+    // })
+      
+    // const textChunks = await splitter.splitDocuments(document)
+    // console.log(`Documents split into ${textChunks.length} chunks.`)
+
+    // console.log("Generating the vector embeddings for the text chunks.")
+    // const destinationName = "GENERATIVE_AI_HUB";
+    // // For each text chunk generate the embeddings
+    // for (const chunk of textChunks) {
+
+
+    //   const embedding = await vectorPlugin.getEmbedding(chunk.pageContent);
+    //   const entry = {
+    //     "text_chunk": chunk.pageContent,
+    //     "metadata_column": loader.filePath,
+    //     "embedding": array2VectorBuffer(embedding)
+    //   }
+     
+    //   textChunkEntries.push(entry)
+    // }
+
+    // console.log("Inserting text chunks with embeddings into db.")
+    // // Insert the text chunk with embeddings into db
+    // const insertStatus = await INSERT.into(DocumentChunk).entries(textChunkEntries)
+    // if (!insertStatus) {
+    //   throw new Error("Insertion of text chunks into db failed!")
+    // }
+    // return `Embeddings stored successfully to db.`
+  } catch (error) {
+    // Handle any errors that occur during the execution
+    console.log('Error while generating and storing vector embeddings:', error)
+    throw error
+  }
 })
 
   this.on ('deleteEmbeddings', async (req) => {

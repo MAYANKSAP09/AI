@@ -32,6 +32,27 @@
         "[development]": {
           "kind": "sql"
         }
+      },
+      "OnPremise": {
+        "kind": "odata-v2",
+        "max_get_url_length": 2047,
+        "credentials": {
+          "path": "/sap/opu/odata/GMT/API_PLM_RD_SRV",
+          "[production]": {
+            "destination": "PLM_COMPAS"
+          },
+          "[production-mtx]": {
+            "destination": "PLM_COMPAS"
+          },
+          "[hybrid]": {
+            "url": "http://PLM_COMPAS.dest",
+            "proxyConfiguration": {
+              "host": "127.0.0.1",
+              "port": 8887,
+              "protocol": "http"
+            }
+          }
+        }
       }
     }
     ,
