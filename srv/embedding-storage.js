@@ -1,10 +1,13 @@
 const cds = require('@sap/cds')
 const { INSERT, DELETE, SELECT } = cds.ql
-const { TextLoader } = require('langchain/document_loaders/fs/text')
+const { PDFLoader } = require('langchain/document_loaders/fs/pdf')
 const { RecursiveCharacterTextSplitter } = require('langchain/text_splitter')
 const path = require('path')
 const fs = require('fs')
+const pdf = require('pdf-parse');
 const { getSpecificationHeaderData,getSpecificationItemsData } = require("./utils/getDataFromDestination.js");
+const XLSX = require('xlsx');
+const { Document } = require('langchain/document');
   
 // Helper method to convert embeddings to buffer for insertion
 let array2VectorBuffer = (data) => {
@@ -40,20 +43,60 @@ let deleteIfExists = (filePath) => {
     }
 }
 
+
+async function vectorizeText(text) {
+  // Assuming the CAP LLM Plugin provides a method to vectorize text
+  const llmResponse = await cds.services.yourLLMService.vectorize({ text });
+  return llmResponse.vector; // Adjust according to the LLM service response structure
+};
+
+
+async function loadXml(filePath) {
+// Read the Excel file
+const workbook = XLSX.readFile(filePath);
+const sheetNames = workbook.SheetNames;
+
+const documents = []; 
+
+// Loop through all sheets
+for (const sheetName of sheetNames) {
+    const worksheet = workbook.Sheets[sheetName];
+    const data = XLSX.utils.sheet_to_json(worksheet, { header: 1 });
+
+    // Loop through each row in the sheet
+    for (const row of data) {
+        const content = row.join(' '); // Convert the row into a string
+        documents.push(
+            new Document({
+                pageContent: content, // Set row data as the document content
+                metadata: { sheet: sheetName }, // Optionally, store metadata such as sheet name
+            })
+        );
+    }
+}
+
+return documents;
+}
+
 module.exports = function() {
+
+ 
+ 
+       
+
   this.on('storeEmbeddings', async (req) => {
     try {
       const vectorPlugin = await cds.connect.to('cap-llm-plugin')
       const { DocumentChunk } = this.entities
       let textChunkEntries = []
       console.log(__dirname)
-      
-      const loader = new TextLoader(path.resolve('db/data/gramont.txt'))
-      const document = await loader.load()
+     // const xData = loadXml('db/data/r.xlsx')
+      const loader = new PDFLoader(path.resolve('db/data/4.pdf'))
+      const document =  await loader.load();
 
       const splitter = new RecursiveCharacterTextSplitter({
-        chunkSize: 500,
-        chunkOverlap: 0,
+        chunkSize: 5000,
+        chunkOverlap: 1000,
         addStartIndex: true
       })
         
@@ -93,18 +136,30 @@ module.exports = function() {
 this.on('saveSpecificationVector', async (req) => {
   try {
 
-
-    const specificationHeader = await getSpecificationHeaderData();
-    const aSpecifications = specificationHeader.map(item => item.SpecificationIntId);
-    const srcSpecFilter = {
-      "SpecificationIntId": {in: aSpecifications}
+    const srcSpecFilter1 = {
+      SpecificationIntId: {in: ['00000000000000705708']}
   };
-  const specificationMaterial = await getSpecificationItemsData("SpecificationMaterials",srcSpecFilter);
-  const SpecificationAllergenComps = await getSpecificationItemsData("SpecificationAllergenComps",srcSpecFilter);
-  const SpecificationDietComps =await getSpecificationItemsData("SpecificationDietComps",srcSpecFilter);
-  const SpecificationGmoComps = await getSpecificationItemsData("SpecificationGmoComps",srcSpecFilter);
-  const SpecificationRelComps =await getSpecificationItemsData("SpecificationRelComps",srcSpecFilter);
-  const SpecificationIdentifiers = await getSpecificationItemsData("SpecificationIdentifiers",srcSpecFilter);
+    const specificationHeader = await getSpecificationHeaderData(srcSpecFilter1);
+  //   const aSpecifications = specificationHeader.map(item => item.SpecificationIntId);
+  //   const srcSpecFilter = {
+  //     SpecificationIntId: {in: aSpecifications}
+  // };
+  // let aspecificationMaterial = []
+  // for(i = 0; i < aSpecifications.length ; i++){
+  //   const srcSpecFilter = {
+  //     SpecificationIntId: {in: [aSpecifications[i]]}
+  // };
+  // var  specificationMaterial = await getSpecificationItemsData("SpecificationMaterials",srcSpecFilter);
+  // if(specificationMaterial.length > 0){
+  //   aspecificationMaterial.push(...specificationHeader)
+  // }
+  // }
+  //const specificationMaterial = await getSpecificationItemsData("SpecificationMaterials",srcSpecFilter);
+  // const SpecificationAllergenComps = await getSpecificationItemsData("SpecificationAllergenComps",srcSpecFilter);
+  // const SpecificationDietComps =await getSpecificationItemsData("SpecificationDietComps",srcSpecFilter);
+  // const SpecificationGmoComps = await getSpecificationItemsData("SpecificationGmoComps",srcSpecFilter);
+  // const SpecificationRelComps =await getSpecificationItemsData("SpecificationRelComps",srcSpecFilter);
+  // const SpecificationIdentifiers = await getSpecificationItemsData("SpecificationIdentifiers",srcSpecFilter);
 
 
     const name = 83498216
@@ -168,4 +223,28 @@ this.on('saveSpecificationVector', async (req) => {
       throw error
     }
   })
-}
+
+  this.on('importPdf', async (req) => {
+    const { filePath } = req.data; // Get file path from the request
+    try {
+        // Read the PDF file
+        const pdfBuffer = await fs.promises.readFile(filePath);
+        
+        // Extract text from PDF
+        const pdfData = await pdf(pdfBuffer);
+        const pdfText = pdfData.text;
+
+        // Vectorize text using CAP LLM Plugin
+        const vectorData = await vectorizeText(pdfText);
+
+        // Store vector data in database
+        await cds.run(INSERT.into('your.VectorEntity').entries({ vector: vectorData }));
+
+        return { message: 'PDF processed and vectorized successfully' };
+    } catch (error) {
+        console.error('Error processing PDF:', error);
+        req.error(500, 'Failed to process PDF: ' + error.message);
+    }
+});
+};
+

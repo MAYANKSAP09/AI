@@ -1,7 +1,7 @@
 
-service NexgenService {
+service AIService {
 
-    function getRagResponse() returns String;
+    function getRagResponse(userQwery:String) returns String;
     function executeSimilaritySearch() returns String;
 
 }
