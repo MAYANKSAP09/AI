@@ -30,7 +30,7 @@ server:
           path:
             - /resources
             - /test-resources
-          url: https://ui5.sap.comű
+          url: https://ui5.sap.com
         backend:
           - path: /v4 # CAP backend
             url: http://localhost:4004
