@@ -17,11 +17,8 @@
     },
     "dataSources": {
       "mainService": {
-        "uri": "/v4/ai/",
-        "type": "OData",
-        "settings": {
-          "odataVersion": "4.0"
-        }
+        "uri": "/srv/gmt/processai/",
+        "type": "OData"
       }
     }
   },

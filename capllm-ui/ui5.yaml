@@ -32,8 +32,9 @@ server:
             - /test-resources
           url: https://ui5.sap.com
         backend:
-          - path: /v4 # CAP backend
-            url: http://localhost:4004
+          - path: /srv/gmt
+            url: https://gramont-gmbh-gramontgmbhdev-hana-capllm-srv.cfapps.eu10.hana.ondemand.com
+            destination: CAPLLMAIPOC
     - name: fiori-tools-appreload
       afterMiddleware: compression
       configuration:
