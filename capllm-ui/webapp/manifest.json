@@ -14,6 +14,15 @@
       "id": "@sap/generator-fiori:basic",
       "version": "1.15.1",
       "toolsId": "7b0ff67f-bc43-41a5-b6ff-feae0817fcfb"
+    },
+    "dataSources": {
+      "mainService": {
+        "uri": "/v4/ai/",
+        "type": "OData",
+        "settings": {
+          "odataVersion": "4.0"
+        }
+      }
     }
   },
   "sap.ui": {
@@ -51,6 +60,10 @@
         "settings": {
           "bundleName": "capllmui.i18n.i18n"
         }
+      },
+      "": {
+        "dataSource": "mainService",
+        "preload": true
       }
     },
     "resources": {
@@ -74,9 +87,7 @@
         {
           "name": "RouteMain",
           "pattern": ":?query:",
-          "target": [
-            "TargetMain"
-          ]
+          "target": ["TargetMain"]
         }
       ],
       "targets": {
