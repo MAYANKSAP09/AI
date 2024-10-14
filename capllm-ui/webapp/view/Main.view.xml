@@ -5,18 +5,18 @@
     <Page title="{i18n>title}">
         <content>
             <FlexBox height="80%" justifyContent="Center">
-                <VBox>
+                <VBox width="100%">
                     <c:Timeline content="{aiModel>/data}" groupBy="date" sortOldestFirst="true" enableDoubleSided="true" showHeaderBar="false" showIcons="false">
                         <c:content>
                             <c:TimelineItem dateTime="{aiModel>date}" text="{aiModel>text}" userName="{aiModel>name}"/>
                         </c:content>
                     </c:Timeline>
-                </VBox>
-            </FlexBox>
-
+                 </VBox>
+             </FlexBox>
+                    
             <FlexBox height="20%" alignItems="End" justifyContent="Center">
                 <VBox width="100%">
-                    <FeedInput width="100%" post="onPost" showIcon="false" />
+                    <FeedInput post="onPost" showIcon="false" />
                 </VBox>
             </FlexBox>
         </content>
