@@ -32,7 +32,7 @@ server:
             - /test-resources
           url: https://ui5.sap.com
         backend:
-          - path: /srv/gmt
+          - path: /odata/v2/srv/gmt
             url: https://gramont-gmbh-gramontgmbhdev-hana-capllm-srv.cfapps.eu10.hana.ondemand.com
             destination: CAPLLMAIPOC
     - name: fiori-tools-appreload

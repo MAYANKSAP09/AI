@@ -1,7 +1,22 @@
 <mvc:View controllerName="capllmui.controller.Main"
-    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
-    xmlns="sap.m">
-    <Page id="page" title="{i18n>title}">
-        <content />
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:c="sap.suite.ui.commons"
+    xmlns="sap.m" displayBlock="true">
+    <Page title="{i18n>title}">
+        <content>
+            <Panel>
+                <FlexBox justifyContent="Center">
+                    <VBox width="100%">
+                        <c:Timeline id="timeline" content="{aiModel>/data}" groupBy="date" sortOldestFirst="true" enableDoubleSided="true" showHeaderBar="false" showIcons="false">
+                            <c:content>
+                                <c:TimelineItem dateTime="{aiModel>date}" text="{aiModel>text}" userName="{aiModel>name}">
+                                </c:TimelineItem>
+                            </c:content>
+                        </c:Timeline>
+                        <FeedInput post="onPost" showIcon="false" />
+                    </VBox>
+                </FlexBox>
+            </Panel>
+        </content>
     </Page>
 </mvc:View>

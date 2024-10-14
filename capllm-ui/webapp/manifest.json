@@ -17,8 +17,11 @@
     },
     "dataSources": {
       "mainService": {
-        "uri": "/srv/gmt/processai/",
-        "type": "OData"
+        "uri": "/odata/v2/srv/gmt/processai/",
+        "type": "OData",
+        "settings": {
+          "odataVersion": "2.0"
+        }
       }
     }
   },
