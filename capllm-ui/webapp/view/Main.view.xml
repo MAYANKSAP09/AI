@@ -1,24 +1,19 @@
 <mvc:View controllerName="capllmui.controller.Main"
     xmlns:mvc="sap.ui.core.mvc"
     xmlns:c="sap.suite.ui.commons"
-    xmlns="sap.m" displayBlock="true" height="100%" width="100%">
-    <Page title="{i18n>title}">
+    xmlns="sap.m" displayBlock="true">
+    <Page title="{i18n>title}" enableScrolling="false">
         <content>
-            <FlexBox height="80%" justifyContent="Center">
-                <VBox width="100%">
-                    <c:Timeline content="{aiModel>/data}" groupBy="date" sortOldestFirst="true" enableDoubleSided="true" showHeaderBar="false" showIcons="false">
-                        <c:content>
-                            <c:TimelineItem dateTime="{aiModel>date}" text="{aiModel>text}" userName="{aiModel>name}"/>
-                        </c:content>
-                    </c:Timeline>
-                 </VBox>
-             </FlexBox>
-                    
-            <FlexBox height="20%" alignItems="End" justifyContent="Center">
-                <VBox width="100%">
-                    <FeedInput post="onPost" showIcon="false" />
-                </VBox>
-            </FlexBox>
+            <Panel height="85%" backgroundDesign="Transparent">
+                <c:Timeline content="{aiModel>/data}" groupBy="date" sortOldestFirst="true" enableDoubleSided="true" showHeaderBar="false" showIcons="false">
+                    <c:content>
+                        <c:TimelineItem dateTime="{aiModel>date}" text="{aiModel>text}" userName="{aiModel>name}"/>
+                    </c:content>
+                </c:Timeline>
+            </Panel>
+            <Panel height="15%">
+                <FeedInput post="onPost" showIcon="false" />
+            </Panel>
         </content>
     </Page>
 </mvc:View>
