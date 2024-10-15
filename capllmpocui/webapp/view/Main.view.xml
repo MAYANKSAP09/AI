@@ -1,4 +1,4 @@
-<mvc:View controllerName="capllmui.controller.Main"
+<mvc:View controllerName="capllmpocui.controller.Main"
     xmlns:mvc="sap.ui.core.mvc"
     xmlns:c="sap.suite.ui.commons"
     xmlns="sap.m" displayBlock="true">

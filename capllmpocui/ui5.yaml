@@ -2,24 +2,8 @@
 
 specVersion: "3.1"
 metadata:
-  name: capllmui
+  name: capllmpocui
 type: application
-builder:
-  resources:
-    excludes:
-      - "/index.html"
-  customTasks:
-    - name: webide-extension-task-updateManifestJson
-      beforeTask: generateManifestBundle
-      configuration:
-        appFolder: webapp
-        destDir: dist
-    - name: ui5-task-zipper
-      afterTask: generateCachebusterInfo
-      configuration:
-        archiveName: capllmui
-        additionalFiles:
-          - xs-app.json
 server:
   customMiddleware:
     - name: fiori-tools-proxy
@@ -44,5 +28,5 @@ server:
     - name: fiori-tools-preview
       afterMiddleware: fiori-tools-appreload
       configuration:
-        component: capllmui
+        component: capllmpocui
         ui5Theme: sap_horizon

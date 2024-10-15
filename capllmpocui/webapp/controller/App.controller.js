@@ -5,7 +5,7 @@ sap.ui.define(
     function(BaseController) {
       "use strict";
   
-      return BaseController.extend("capllmui.controller.App", {
+      return BaseController.extend("capllmpocui.controller.App", {
         onInit: function() {
         }
       });

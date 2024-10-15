@@ -1,7 +1,7 @@
 {
   "_version": "1.65.0",
   "sap.app": {
-    "id": "capllmui",
+    "id": "capllmpocui",
     "type": "application",
     "i18n": "i18n/i18n.properties",
     "applicationVersion": {
@@ -13,7 +13,7 @@
     "sourceTemplate": {
       "id": "@sap/generator-fiori:basic",
       "version": "1.15.1",
-      "toolsId": "7b0ff67f-bc43-41a5-b6ff-feae0817fcfb"
+      "toolsId": "61104585-e4a0-4cf5-8cd9-17d568b113dd"
     },
     "dataSources": {
       "mainService": {
@@ -44,7 +44,7 @@
   "sap.ui5": {
     "flexEnabled": true,
     "dependencies": {
-      "minUI5Version": "1.129.1",
+      "minUI5Version": "1.129.2",
       "libs": {
         "sap.m": {},
         "sap.ui.core": {}
@@ -58,7 +58,7 @@
       "i18n": {
         "type": "sap.ui.model.resource.ResourceModel",
         "settings": {
-          "bundleName": "capllmui.i18n.i18n"
+          "bundleName": "capllmpocui.i18n.i18n"
         }
       },
       "": {
@@ -78,7 +78,7 @@
         "routerClass": "sap.m.routing.Router",
         "viewType": "XML",
         "async": true,
-        "viewPath": "capllmui.view",
+        "viewPath": "capllmpocui.view",
         "controlAggregation": "pages",
         "controlId": "app",
         "clearControlAggregation": false
@@ -87,7 +87,9 @@
         {
           "name": "RouteMain",
           "pattern": ":?query:",
-          "target": ["TargetMain"]
+          "target": [
+            "TargetMain"
+          ]
         }
       ],
       "targets": {
@@ -101,10 +103,14 @@
       }
     },
     "rootView": {
-      "viewName": "capllmui.view.App",
+      "viewName": "capllmpocui.view.App",
       "type": "XML",
       "async": true,
       "id": "App"
     }
+  },
+  "sap.cloud": {
+    "public": true,
+    "service": "capllmpoc"
   }
 }
